@@ -1,501 +1,501 @@
 id_pedido,data_pedido,nome_produto,categoria,preco_unitario,quantidade,id_cliente,cidade,estado,faturamento,status_entrega
-1000,2026-01-01 12:00:00,Placa de Vídeo,Hardware,4500.0,3,117,Fortaleza,CE,13500.0,normal
-1001,2026-01-01 13:00:00,Headset 7.1,Acessórios,800.0,2,134,Rio de Janeiro,RJ,1600.0,rapida
-1002,2026-01-01 23:00:00,Teclado Mecânico,Acessórios,499.21,1,147,Porto Alegre,RS,499.21,normal
-1003,2026-01-01 10:00:00,Cadeira Gamer,Móveis,1200.0,6,109,Curitiba,PR,7200.0,normal
-1004,2026-01-01 23:00:00,Placa de Vídeo,Hardware,4500.0,8,129,Curitiba,PR,36000.0,normal
-1005,2026-01-02 20:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,113,Rio de Janeiro,RJ,8400.0,rapida
-1006,2026-01-02 02:00:00,SSD 1TB,Hardware,600.0,8,141,Porto Alegre,RS,4800.0,normal
-1007,2026-01-02 08:00:00,Laptop Gamer,Eletrônicos,7500.0,1,110,Curitiba,PR,7500.0,normal
-1008,2026-01-02 17:00:00,Teclado Mecânico,Acessórios,540.37,3,103,Curitiba,PR,1621.1100000000001,normal
-1009,2026-01-02 21:00:00,Teclado Mecânico,Acessórios,505.76,5,126,São Paulo,SP,2528.8,rapida
-1010,2026-01-03 15:00:00,Teclado Mecânico,Acessórios,515.08,3,101,Belo Horizonte,MG,1545.2400000000002,rapida
-1011,2026-01-03 04:00:00,Headset 7.1,Acessórios,800.0,4,135,Fortaleza,CE,3200.0,normal
-1012,2026-01-03 02:00:00,Placa de Vídeo,Hardware,4500.0,4,121,Belo Horizonte,MG,18000.0,rapida
-1013,2026-01-03 08:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,138,Fortaleza,CE,8400.0,normal
-1014,2026-01-03 22:00:00,Cadeira Gamer,Móveis,1200.0,8,109,São Paulo,SP,9600.0,rapida
-1015,2026-01-04 20:00:00,Laptop Gamer,Eletrônicos,7500.0,2,125,Rio de Janeiro,RJ,15000.0,rapida
-1016,2026-01-04 00:00:00,SSD 1TB,Hardware,600.0,2,127,Porto Alegre,RS,1200.0,normal
-1017,2026-01-04 23:00:00,Cadeira Gamer,Móveis,1200.0,7,146,Curitiba,PR,8400.0,normal
-1018,2026-01-04 19:00:00,Laptop Gamer,Eletrônicos,7500.0,8,143,São Paulo,SP,60000.0,rapida
-1019,2026-01-04 05:00:00,Monitor Ultrawide,Eletrônicos,2800.0,2,121,São Paulo,SP,5600.0,rapida
-1020,2026-01-05 06:00:00,Mouse Vertical,Acessórios,237.41,8,105,Salvador,BA,1899.28,normal
-1021,2026-01-05 18:00:00,Cadeira Gamer,Móveis,1200.0,2,118,Rio de Janeiro,RJ,2400.0,rapida
-1022,2026-01-05 02:00:00,Headset 7.1,Acessórios,800.0,8,107,Salvador,BA,6400.0,normal
-1023,2026-01-05 00:00:00,Laptop Gamer,Eletrônicos,7500.0,7,113,Belo Horizonte,MG,52500.0,rapida
-1024,2026-01-05 19:00:00,Placa de Vídeo,Hardware,4500.0,6,121,Curitiba,PR,27000.0,normal
-1025,2026-01-06 03:00:00,Mouse Vertical,Acessórios,249.59,3,139,Porto Alegre,RS,748.77,normal
-1026,2026-01-06 04:00:00,Monitor Ultrawide,Eletrônicos,2800.0,4,138,Belo Horizonte,MG,11200.0,rapida
-1027,2026-01-06 10:00:00,Laptop Gamer,Eletrônicos,7500.0,2,114,Fortaleza,CE,15000.0,normal
-1028,2026-01-06 08:00:00,Headset 7.1,Acessórios,800.0,4,129,Curitiba,PR,3200.0,normal
-1029,2026-01-06 10:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,122,Rio de Janeiro,RJ,22400.0,rapida
-1030,2026-01-07 17:00:00,Headset 7.1,Acessórios,800.0,6,113,Porto Alegre,RS,4800.0,normal
-1031,2026-01-07 22:00:00,SSD 1TB,Hardware,600.0,6,123,São Paulo,SP,3600.0,rapida
-1032,2026-01-07 17:00:00,Headset 7.1,Acessórios,800.0,7,102,Belo Horizonte,MG,5600.0,rapida
-1033,2026-01-07 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,123,Belo Horizonte,MG,19600.0,rapida
-1034,2026-01-07 13:00:00,Teclado Mecânico,Acessórios,508.67,6,107,Curitiba,PR,3052.02,normal
-1035,2026-01-08 22:00:00,Placa de Vídeo,Hardware,4500.0,3,142,Porto Alegre,RS,13500.0,normal
-1036,2026-01-08 23:00:00,SSD 1TB,Hardware,600.0,5,114,Salvador,BA,3000.0,normal
-1037,2026-01-08 05:00:00,SSD 1TB,Hardware,600.0,2,123,Curitiba,PR,1200.0,normal
-1038,2026-01-08 22:00:00,Teclado Mecânico,Acessórios,511.75,7,132,Salvador,BA,3582.25,normal
-1039,2026-01-08 10:00:00,Teclado Mecânico,Acessórios,531.89,8,113,Fortaleza,CE,4255.12,normal
-1040,2026-01-09 12:00:00,Teclado Mecânico,Acessórios,495.66,3,127,Porto Alegre,RS,1486.98,normal
-1041,2026-01-09 04:00:00,SSD 1TB,Hardware,600.0,4,131,Salvador,BA,2400.0,normal
-1042,2026-01-09 04:00:00,Headset 7.1,Acessórios,800.0,5,100,Fortaleza,CE,4000.0,normal
-1043,2026-01-09 03:00:00,Laptop Gamer,Eletrônicos,7500.0,1,130,Rio de Janeiro,RJ,7500.0,rapida
-1044,2026-01-09 03:00:00,Laptop Gamer,Eletrônicos,7500.0,2,135,Salvador,BA,15000.0,normal
-1045,2026-01-10 09:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,138,Porto Alegre,RS,16800.0,normal
-1046,2026-01-10 13:00:00,SSD 1TB,Hardware,600.0,4,139,Curitiba,PR,2400.0,normal
-1047,2026-01-10 16:00:00,Headset 7.1,Acessórios,800.0,7,122,Belo Horizonte,MG,5600.0,rapida
-1048,2026-01-10 02:00:00,Mouse Vertical,Acessórios,226.76,1,124,São Paulo,SP,226.76,rapida
-1049,2026-01-10 08:00:00,Teclado Mecânico,Acessórios,515.31,4,124,Belo Horizonte,MG,2061.24,rapida
-1050,2026-01-11 10:00:00,Mouse Vertical,Acessórios,237.11,2,132,Porto Alegre,RS,474.22,normal
-1051,2026-01-11 02:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,139,Porto Alegre,RS,19600.0,normal
-1052,2026-01-11 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,118,Salvador,BA,16800.0,normal
-1053,2026-01-11 20:00:00,Laptop Gamer,Eletrônicos,7500.0,3,131,São Paulo,SP,22500.0,rapida
-1054,2026-01-11 17:00:00,Cadeira Gamer,Móveis,1200.0,4,104,Belo Horizonte,MG,4800.0,rapida
-1055,2026-01-12 19:00:00,Laptop Gamer,Eletrônicos,7500.0,5,149,Fortaleza,CE,37500.0,normal
-1056,2026-01-12 04:00:00,Teclado Mecânico,Acessórios,516.6,7,134,Rio de Janeiro,RJ,3616.2000000000003,rapida
-1057,2026-01-12 16:00:00,Teclado Mecânico,Acessórios,501.44,8,106,Rio de Janeiro,RJ,4011.52,rapida
-1058,2026-01-12 13:00:00,Mouse Vertical,Acessórios,225.15,6,117,Rio de Janeiro,RJ,1350.9,rapida
-1059,2026-01-12 21:00:00,Placa de Vídeo,Hardware,4500.0,1,113,Salvador,BA,4500.0,normal
-1060,2026-01-13 10:00:00,Cadeira Gamer,Móveis,1200.0,7,122,Curitiba,PR,8400.0,normal
-1061,2026-01-13 02:00:00,Mouse Vertical,Acessórios,232.48,8,135,Rio de Janeiro,RJ,1859.84,rapida
-1062,2026-01-13 15:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,133,São Paulo,SP,22400.0,rapida
-1063,2026-01-13 07:00:00,Mouse Vertical,Acessórios,246.63,1,110,São Paulo,SP,246.63,rapida
-1064,2026-01-13 19:00:00,Teclado Mecânico,Acessórios,504.79,3,115,Curitiba,PR,1514.3700000000001,normal
-1065,2026-01-14 03:00:00,Teclado Mecânico,Acessórios,525.97,6,108,Rio de Janeiro,RJ,3155.82,rapida
-1066,2026-01-14 06:00:00,Laptop Gamer,Eletrônicos,7500.0,8,137,Fortaleza,CE,60000.0,normal
-1067,2026-01-14 03:00:00,Laptop Gamer,Eletrônicos,7500.0,3,111,Fortaleza,CE,22500.0,normal
-1068,2026-01-14 21:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,123,Fortaleza,CE,2800.0,normal
-1069,2026-01-14 14:00:00,Cadeira Gamer,Móveis,1200.0,1,107,Curitiba,PR,1200.0,normal
-1070,2026-01-15 20:00:00,Mouse Vertical,Acessórios,227.16,5,135,Rio de Janeiro,RJ,1135.8,rapida
-1071,2026-01-15 07:00:00,SSD 1TB,Hardware,600.0,4,113,Curitiba,PR,2400.0,normal
-1072,2026-01-15 17:00:00,Monitor Ultrawide,Eletrônicos,2800.0,5,117,Belo Horizonte,MG,14000.0,rapida
-1073,2026-01-15 04:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,125,São Paulo,SP,19600.0,rapida
-1074,2026-01-15 08:00:00,Headset 7.1,Acessórios,800.0,4,105,São Paulo,SP,3200.0,rapida
-1075,2026-01-16 22:00:00,Laptop Gamer,Eletrônicos,7500.0,6,112,Belo Horizonte,MG,45000.0,rapida
-1076,2026-01-16 22:00:00,Cadeira Gamer,Móveis,1200.0,4,149,Salvador,BA,4800.0,normal
-1077,2026-01-16 11:00:00,Laptop Gamer,Eletrônicos,7500.0,4,128,São Paulo,SP,30000.0,rapida
-1078,2026-01-16 17:00:00,Mouse Vertical,Acessórios,241.37,6,110,Fortaleza,CE,1448.22,normal
-1079,2026-01-16 11:00:00,Headset 7.1,Acessórios,800.0,7,106,Belo Horizonte,MG,5600.0,rapida
-1080,2026-01-17 09:00:00,Placa de Vídeo,Hardware,4500.0,3,112,São Paulo,SP,13500.0,rapida
-1081,2026-01-17 05:00:00,Monitor Ultrawide,Eletrônicos,2800.0,4,131,Porto Alegre,RS,11200.0,normal
-1082,2026-01-17 06:00:00,Placa de Vídeo,Hardware,4500.0,8,136,Curitiba,PR,36000.0,normal
-1083,2026-01-17 20:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,110,Fortaleza,CE,2800.0,normal
-1084,2026-01-17 22:00:00,SSD 1TB,Hardware,600.0,6,144,Fortaleza,CE,3600.0,normal
-1085,2026-01-18 22:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,118,Rio de Janeiro,RJ,2800.0,rapida
-1086,2026-01-18 14:00:00,Cadeira Gamer,Móveis,1200.0,6,141,Porto Alegre,RS,7200.0,normal
-1087,2026-01-18 04:00:00,Laptop Gamer,Eletrônicos,7500.0,4,113,São Paulo,SP,30000.0,rapida
-1088,2026-01-18 02:00:00,Laptop Gamer,Eletrônicos,7500.0,6,141,Porto Alegre,RS,45000.0,normal
-1089,2026-01-18 15:00:00,Laptop Gamer,Eletrônicos,7500.0,8,127,Salvador,BA,60000.0,normal
-1090,2026-01-19 23:00:00,Cadeira Gamer,Móveis,1200.0,4,141,Porto Alegre,RS,4800.0,normal
-1091,2026-01-19 02:00:00,Laptop Gamer,Eletrônicos,7500.0,4,100,Curitiba,PR,30000.0,normal
-1092,2026-01-19 01:00:00,SSD 1TB,Hardware,600.0,8,111,Fortaleza,CE,4800.0,normal
-1093,2026-01-19 23:00:00,Mouse Vertical,Acessórios,248.72,5,104,Fortaleza,CE,1243.6,normal
-1094,2026-01-19 03:00:00,SSD 1TB,Hardware,600.0,4,148,Belo Horizonte,MG,2400.0,rapida
-1095,2026-01-20 14:00:00,SSD 1TB,Hardware,600.0,2,108,Belo Horizonte,MG,1200.0,rapida
-1096,2026-01-20 04:00:00,Laptop Gamer,Eletrônicos,7500.0,8,146,Porto Alegre,RS,60000.0,normal
-1097,2026-01-20 01:00:00,Monitor Ultrawide,Eletrônicos,2800.0,2,138,Curitiba,PR,5600.0,normal
-1098,2026-01-20 22:00:00,Laptop Gamer,Eletrônicos,7500.0,3,105,São Paulo,SP,22500.0,rapida
-1099,2026-01-20 10:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,113,Rio de Janeiro,RJ,19600.0,rapida
-1100,2026-01-21 10:00:00,Mouse Vertical,Acessórios,247.8,3,145,Belo Horizonte,MG,743.4000000000001,rapida
-1101,2026-01-21 05:00:00,SSD 1TB,Hardware,600.0,1,132,Curitiba,PR,600.0,normal
-1102,2026-01-21 10:00:00,Headset 7.1,Acessórios,800.0,8,120,Fortaleza,CE,6400.0,normal
-1103,2026-01-21 21:00:00,SSD 1TB,Hardware,600.0,6,112,Curitiba,PR,3600.0,normal
-1104,2026-01-21 05:00:00,Placa de Vídeo,Hardware,4500.0,5,113,Salvador,BA,22500.0,normal
-1105,2026-01-22 09:00:00,Laptop Gamer,Eletrônicos,7500.0,3,132,São Paulo,SP,22500.0,rapida
-1106,2026-01-22 00:00:00,Cadeira Gamer,Móveis,1200.0,6,117,Fortaleza,CE,7200.0,normal
-1107,2026-01-22 05:00:00,Headset 7.1,Acessórios,800.0,4,123,Rio de Janeiro,RJ,3200.0,rapida
-1108,2026-01-22 20:00:00,Mouse Vertical,Acessórios,235.6,3,123,Salvador,BA,706.8,normal
-1109,2026-01-22 07:00:00,Headset 7.1,Acessórios,800.0,2,139,Salvador,BA,1600.0,normal
-1110,2026-01-23 10:00:00,Mouse Vertical,Acessórios,235.74,6,117,Fortaleza,CE,1414.44,normal
-1111,2026-01-23 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,5,113,Curitiba,PR,14000.0,normal
-1112,2026-01-23 16:00:00,Placa de Vídeo,Hardware,4500.0,6,116,São Paulo,SP,27000.0,rapida
-1113,2026-01-23 06:00:00,Mouse Vertical,Acessórios,241.67,3,136,Fortaleza,CE,725.01,normal
-1114,2026-01-23 12:00:00,Cadeira Gamer,Móveis,1200.0,1,110,Belo Horizonte,MG,1200.0,rapida
-1115,2026-01-24 16:00:00,Headset 7.1,Acessórios,800.0,2,111,Rio de Janeiro,RJ,1600.0,rapida
-1116,2026-01-24 10:00:00,Teclado Mecânico,Acessórios,528.77,8,103,Fortaleza,CE,4230.16,normal
-1117,2026-01-24 07:00:00,Headset 7.1,Acessórios,800.0,7,142,Belo Horizonte,MG,5600.0,rapida
-1118,2026-01-24 03:00:00,Laptop Gamer,Eletrônicos,7500.0,4,115,Belo Horizonte,MG,30000.0,rapida
-1119,2026-01-24 00:00:00,Teclado Mecânico,Acessórios,525.58,5,117,São Paulo,SP,2627.9,rapida
-1120,2026-01-25 23:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,103,Porto Alegre,RS,2800.0,normal
-1121,2026-01-25 11:00:00,Placa de Vídeo,Hardware,4500.0,7,139,Salvador,BA,31500.0,normal
-1122,2026-01-25 06:00:00,Placa de Vídeo,Hardware,4500.0,8,120,São Paulo,SP,36000.0,rapida
-1123,2026-01-25 23:00:00,SSD 1TB,Hardware,600.0,5,128,Porto Alegre,RS,3000.0,normal
-1124,2026-01-25 10:00:00,Cadeira Gamer,Móveis,1200.0,6,119,Belo Horizonte,MG,7200.0,rapida
-1125,2026-01-26 02:00:00,Laptop Gamer,Eletrônicos,7500.0,5,147,Salvador,BA,37500.0,normal
-1126,2026-01-26 11:00:00,Mouse Vertical,Acessórios,243.45,5,111,Belo Horizonte,MG,1217.25,rapida
-1127,2026-01-26 04:00:00,Laptop Gamer,Eletrônicos,7500.0,6,139,Salvador,BA,45000.0,normal
-1128,2026-01-26 14:00:00,Placa de Vídeo,Hardware,4500.0,1,102,São Paulo,SP,4500.0,rapida
-1129,2026-01-26 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,114,Curitiba,PR,2800.0,normal
-1130,2026-01-27 02:00:00,SSD 1TB,Hardware,600.0,3,107,Fortaleza,CE,1800.0,normal
-1131,2026-01-27 11:00:00,Teclado Mecânico,Acessórios,512.79,1,106,Rio de Janeiro,RJ,512.79,rapida
-1132,2026-01-27 19:00:00,Cadeira Gamer,Móveis,1200.0,3,135,Salvador,BA,3600.0,normal
-1133,2026-01-27 03:00:00,Teclado Mecânico,Acessórios,504.67,6,110,Rio de Janeiro,RJ,3028.02,rapida
-1134,2026-01-27 19:00:00,Laptop Gamer,Eletrônicos,7500.0,8,131,São Paulo,SP,60000.0,rapida
-1135,2026-01-28 16:00:00,SSD 1TB,Hardware,600.0,5,118,Salvador,BA,3000.0,normal
-1136,2026-01-28 02:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,148,Salvador,BA,8400.0,normal
-1137,2026-01-28 20:00:00,Teclado Mecânico,Acessórios,519.29,4,102,São Paulo,SP,2077.16,rapida
-1138,2026-01-28 17:00:00,SSD 1TB,Hardware,600.0,1,127,Curitiba,PR,600.0,normal
-1139,2026-01-28 19:00:00,SSD 1TB,Hardware,600.0,3,145,Porto Alegre,RS,1800.0,normal
-1140,2026-01-29 17:00:00,SSD 1TB,Hardware,600.0,7,114,Porto Alegre,RS,4200.0,normal
-1141,2026-01-29 08:00:00,Teclado Mecânico,Acessórios,512.47,8,130,Fortaleza,CE,4099.76,normal
-1142,2026-01-29 09:00:00,Mouse Vertical,Acessórios,247.73,2,141,Salvador,BA,495.46,normal
-1143,2026-01-29 01:00:00,Teclado Mecânico,Acessórios,501.5,6,141,Rio de Janeiro,RJ,3009.0,rapida
-1144,2026-01-29 11:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,110,Curitiba,PR,16800.0,normal
-1145,2026-01-30 22:00:00,Teclado Mecânico,Acessórios,500.35,6,114,Porto Alegre,RS,3002.1000000000004,normal
-1146,2026-01-30 23:00:00,Mouse Vertical,Acessórios,233.28,1,114,Salvador,BA,233.28,normal
-1147,2026-01-30 08:00:00,Laptop Gamer,Eletrônicos,7500.0,1,106,São Paulo,SP,7500.0,rapida
-1148,2026-01-30 04:00:00,Teclado Mecânico,Acessórios,504.73,6,105,Curitiba,PR,3028.38,normal
-1149,2026-01-30 02:00:00,SSD 1TB,Hardware,600.0,7,107,Porto Alegre,RS,4200.0,normal
-1150,2026-01-31 11:00:00,Placa de Vídeo,Hardware,4500.0,5,103,Belo Horizonte,MG,22500.0,rapida
-1151,2026-01-31 14:00:00,Cadeira Gamer,Móveis,1200.0,2,128,Salvador,BA,2400.0,normal
-1152,2026-01-31 21:00:00,Placa de Vídeo,Hardware,4500.0,2,124,Fortaleza,CE,9000.0,normal
-1153,2026-01-31 06:00:00,Teclado Mecânico,Acessórios,501.77,2,148,Curitiba,PR,1003.54,normal
-1154,2026-01-31 07:00:00,Laptop Gamer,Eletrônicos,7500.0,5,137,Salvador,BA,37500.0,normal
-1155,2026-02-01 14:00:00,Monitor Ultrawide,Eletrônicos,2800.0,2,106,Salvador,BA,5600.0,normal
-1156,2026-02-01 20:00:00,Teclado Mecânico,Acessórios,496.5,2,108,Belo Horizonte,MG,993.0,rapida
-1157,2026-02-01 10:00:00,Teclado Mecânico,Acessórios,511.22,4,100,Fortaleza,CE,2044.88,normal
-1158,2026-02-01 01:00:00,Mouse Vertical,Acessórios,232.19,5,130,Porto Alegre,RS,1160.95,normal
-1159,2026-02-01 18:00:00,Headset 7.1,Acessórios,800.0,2,147,Salvador,BA,1600.0,normal
-1160,2026-02-02 21:00:00,Headset 7.1,Acessórios,800.0,3,139,Fortaleza,CE,2400.0,normal
-1161,2026-02-02 08:00:00,SSD 1TB,Hardware,600.0,1,108,Salvador,BA,600.0,normal
-1162,2026-02-02 04:00:00,Headset 7.1,Acessórios,800.0,5,128,São Paulo,SP,4000.0,rapida
-1163,2026-02-02 16:00:00,Teclado Mecânico,Acessórios,543.46,8,108,Salvador,BA,4347.68,normal
-1164,2026-02-02 04:00:00,Laptop Gamer,Eletrônicos,7500.0,2,113,Belo Horizonte,MG,15000.0,rapida
-1165,2026-02-03 10:00:00,Laptop Gamer,Eletrônicos,7500.0,8,125,Belo Horizonte,MG,60000.0,rapida
-1166,2026-02-03 12:00:00,Placa de Vídeo,Hardware,4500.0,6,123,São Paulo,SP,27000.0,rapida
-1167,2026-02-03 12:00:00,Mouse Vertical,Acessórios,244.21,3,115,Rio de Janeiro,RJ,732.63,rapida
-1168,2026-02-03 23:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,116,Belo Horizonte,MG,22400.0,rapida
-1169,2026-02-03 10:00:00,SSD 1TB,Hardware,600.0,7,136,Curitiba,PR,4200.0,normal
-1170,2026-02-04 14:00:00,Cadeira Gamer,Móveis,1200.0,3,112,São Paulo,SP,3600.0,rapida
-1171,2026-02-04 06:00:00,Laptop Gamer,Eletrônicos,7500.0,1,141,Salvador,BA,7500.0,normal
-1172,2026-02-04 06:00:00,Mouse Vertical,Acessórios,234.04,2,107,Fortaleza,CE,468.08,normal
-1173,2026-02-04 21:00:00,SSD 1TB,Hardware,600.0,6,115,Fortaleza,CE,3600.0,normal
-1174,2026-02-04 00:00:00,Teclado Mecânico,Acessórios,511.28,6,112,Salvador,BA,3067.68,normal
-1175,2026-02-05 04:00:00,Mouse Vertical,Acessórios,246.19,5,107,Salvador,BA,1230.95,normal
-1176,2026-02-05 13:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,121,Porto Alegre,RS,2800.0,normal
-1177,2026-02-05 21:00:00,Mouse Vertical,Acessórios,239.63,4,131,São Paulo,SP,958.52,rapida
-1178,2026-02-05 19:00:00,Cadeira Gamer,Móveis,1200.0,4,131,Salvador,BA,4800.0,normal
-1179,2026-02-05 20:00:00,Headset 7.1,Acessórios,800.0,5,116,São Paulo,SP,4000.0,rapida
-1180,2026-02-06 20:00:00,Mouse Vertical,Acessórios,245.97,1,144,Fortaleza,CE,245.97,normal
-1181,2026-02-06 20:00:00,Laptop Gamer,Eletrônicos,7500.0,2,114,Belo Horizonte,MG,15000.0,rapida
-1182,2026-02-06 19:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,103,Salvador,BA,2800.0,normal
-1183,2026-02-06 11:00:00,Headset 7.1,Acessórios,800.0,4,132,Curitiba,PR,3200.0,normal
-1184,2026-02-06 03:00:00,Mouse Vertical,Acessórios,243.24,7,108,Belo Horizonte,MG,1702.68,rapida
-1185,2026-02-07 17:00:00,SSD 1TB,Hardware,600.0,8,113,Fortaleza,CE,4800.0,normal
-1186,2026-02-07 18:00:00,Laptop Gamer,Eletrônicos,7500.0,8,125,São Paulo,SP,60000.0,rapida
-1187,2026-02-07 18:00:00,SSD 1TB,Hardware,600.0,4,114,Salvador,BA,2400.0,normal
-1188,2026-02-07 07:00:00,SSD 1TB,Hardware,600.0,2,113,Belo Horizonte,MG,1200.0,rapida
-1189,2026-02-07 00:00:00,Mouse Vertical,Acessórios,232.79,7,106,São Paulo,SP,1629.53,rapida
-1190,2026-02-08 17:00:00,SSD 1TB,Hardware,600.0,1,135,Curitiba,PR,600.0,normal
-1191,2026-02-08 11:00:00,Mouse Vertical,Acessórios,235.38,1,103,Rio de Janeiro,RJ,235.38,rapida
-1192,2026-02-08 04:00:00,Headset 7.1,Acessórios,800.0,4,132,Porto Alegre,RS,3200.0,normal
-1193,2026-02-08 12:00:00,Mouse Vertical,Acessórios,225.9,5,103,Curitiba,PR,1129.5,normal
-1194,2026-02-08 23:00:00,Mouse Vertical,Acessórios,229.54,4,113,São Paulo,SP,918.16,rapida
-1195,2026-02-09 08:00:00,Laptop Gamer,Eletrônicos,7500.0,1,126,São Paulo,SP,7500.0,rapida
-1196,2026-02-09 06:00:00,Mouse Vertical,Acessórios,248.66,8,137,Rio de Janeiro,RJ,1989.28,rapida
-1197,2026-02-09 20:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,145,Curitiba,PR,16800.0,normal
-1198,2026-02-09 11:00:00,Cadeira Gamer,Móveis,1200.0,5,134,Belo Horizonte,MG,6000.0,rapida
-1199,2026-02-09 03:00:00,Laptop Gamer,Eletrônicos,7500.0,3,131,Rio de Janeiro,RJ,22500.0,rapida
-1200,2026-02-10 13:00:00,Laptop Gamer,Eletrônicos,7500.0,6,125,Rio de Janeiro,RJ,45000.0,rapida
-1201,2026-02-10 22:00:00,Teclado Mecânico,Acessórios,525.11,6,127,Belo Horizonte,MG,3150.66,rapida
-1202,2026-02-10 18:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,120,Rio de Janeiro,RJ,2800.0,rapida
-1203,2026-02-10 03:00:00,SSD 1TB,Hardware,600.0,5,107,Porto Alegre,RS,3000.0,normal
-1204,2026-02-10 13:00:00,Cadeira Gamer,Móveis,1200.0,1,129,Rio de Janeiro,RJ,1200.0,rapida
-1205,2026-02-11 11:00:00,Placa de Vídeo,Hardware,4500.0,3,107,Porto Alegre,RS,13500.0,normal
-1206,2026-02-11 02:00:00,SSD 1TB,Hardware,600.0,4,107,Fortaleza,CE,2400.0,normal
-1207,2026-02-11 23:00:00,SSD 1TB,Hardware,600.0,8,104,Rio de Janeiro,RJ,4800.0,rapida
-1208,2026-02-11 23:00:00,Headset 7.1,Acessórios,800.0,3,138,Fortaleza,CE,2400.0,normal
-1209,2026-02-11 11:00:00,Mouse Vertical,Acessórios,233.16,1,117,Belo Horizonte,MG,233.16,rapida
-1210,2026-02-12 18:00:00,Teclado Mecânico,Acessórios,540.8,4,120,Curitiba,PR,2163.2,normal
-1211,2026-02-12 02:00:00,Laptop Gamer,Eletrônicos,7500.0,1,132,Rio de Janeiro,RJ,7500.0,rapida
-1212,2026-02-12 22:00:00,Monitor Ultrawide,Eletrônicos,2800.0,4,100,Salvador,BA,11200.0,normal
-1213,2026-02-12 13:00:00,Placa de Vídeo,Hardware,4500.0,5,114,Salvador,BA,22500.0,normal
-1214,2026-02-12 06:00:00,SSD 1TB,Hardware,600.0,4,136,Porto Alegre,RS,2400.0,normal
-1215,2026-02-13 16:00:00,SSD 1TB,Hardware,600.0,4,108,Salvador,BA,2400.0,normal
-1216,2026-02-13 21:00:00,Placa de Vídeo,Hardware,4500.0,1,147,Fortaleza,CE,4500.0,normal
-1217,2026-02-13 07:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,146,Curitiba,PR,8400.0,normal
-1218,2026-02-13 07:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,134,Fortaleza,CE,19600.0,normal
-1219,2026-02-13 20:00:00,SSD 1TB,Hardware,600.0,3,141,Fortaleza,CE,1800.0,normal
-1220,2026-02-14 08:00:00,Headset 7.1,Acessórios,800.0,6,100,Belo Horizonte,MG,4800.0,rapida
-1221,2026-02-14 00:00:00,Mouse Vertical,Acessórios,249.74,8,120,São Paulo,SP,1997.92,rapida
-1222,2026-02-14 18:00:00,Headset 7.1,Acessórios,800.0,4,105,Porto Alegre,RS,3200.0,normal
-1223,2026-02-14 12:00:00,Headset 7.1,Acessórios,800.0,7,147,Salvador,BA,5600.0,normal
-1224,2026-02-14 12:00:00,Mouse Vertical,Acessórios,225.65,4,101,Belo Horizonte,MG,902.6,rapida
-1225,2026-02-15 05:00:00,Headset 7.1,Acessórios,800.0,2,107,Fortaleza,CE,1600.0,normal
-1226,2026-02-15 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,140,Curitiba,PR,22400.0,normal
-1227,2026-02-15 22:00:00,Monitor Ultrawide,Eletrônicos,2800.0,2,126,Curitiba,PR,5600.0,normal
-1228,2026-02-15 22:00:00,SSD 1TB,Hardware,600.0,2,128,Curitiba,PR,1200.0,normal
-1229,2026-02-15 20:00:00,Cadeira Gamer,Móveis,1200.0,5,130,Fortaleza,CE,6000.0,normal
-1230,2026-02-16 13:00:00,Teclado Mecânico,Acessórios,546.1,6,117,Belo Horizonte,MG,3276.6000000000004,rapida
-1231,2026-02-16 21:00:00,Headset 7.1,Acessórios,800.0,5,111,São Paulo,SP,4000.0,rapida
-1232,2026-02-16 22:00:00,Headset 7.1,Acessórios,800.0,2,116,Fortaleza,CE,1600.0,normal
-1233,2026-02-16 00:00:00,SSD 1TB,Hardware,600.0,6,121,Porto Alegre,RS,3600.0,normal
-1234,2026-02-16 08:00:00,Cadeira Gamer,Móveis,1200.0,6,103,Rio de Janeiro,RJ,7200.0,rapida
-1235,2026-02-17 13:00:00,Laptop Gamer,Eletrônicos,7500.0,5,119,São Paulo,SP,37500.0,rapida
-1236,2026-02-17 16:00:00,Headset 7.1,Acessórios,800.0,7,125,Rio de Janeiro,RJ,5600.0,rapida
-1237,2026-02-17 06:00:00,Cadeira Gamer,Móveis,1200.0,6,123,Curitiba,PR,7200.0,normal
-1238,2026-02-17 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,103,Porto Alegre,RS,22400.0,normal
-1239,2026-02-17 13:00:00,Mouse Vertical,Acessórios,247.64,5,118,Rio de Janeiro,RJ,1238.1999999999998,rapida
-1240,2026-02-18 23:00:00,Placa de Vídeo,Hardware,4500.0,1,145,Rio de Janeiro,RJ,4500.0,rapida
-1241,2026-02-18 17:00:00,Cadeira Gamer,Móveis,1200.0,5,103,Salvador,BA,6000.0,normal
-1242,2026-02-18 05:00:00,Placa de Vídeo,Hardware,4500.0,2,110,Rio de Janeiro,RJ,9000.0,rapida
-1243,2026-02-18 23:00:00,Headset 7.1,Acessórios,800.0,7,106,Rio de Janeiro,RJ,5600.0,rapida
-1244,2026-02-18 20:00:00,Placa de Vídeo,Hardware,4500.0,1,121,São Paulo,SP,4500.0,rapida
-1245,2026-02-19 07:00:00,SSD 1TB,Hardware,600.0,2,149,Fortaleza,CE,1200.0,normal
-1246,2026-02-19 14:00:00,Laptop Gamer,Eletrônicos,7500.0,5,106,Fortaleza,CE,37500.0,normal
-1247,2026-02-19 13:00:00,Cadeira Gamer,Móveis,1200.0,5,138,Salvador,BA,6000.0,normal
-1248,2026-02-19 17:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,142,Fortaleza,CE,8400.0,normal
-1249,2026-02-19 23:00:00,Headset 7.1,Acessórios,800.0,5,137,Rio de Janeiro,RJ,4000.0,rapida
-1250,2026-02-20 17:00:00,Cadeira Gamer,Móveis,1200.0,5,139,Porto Alegre,RS,6000.0,normal
-1251,2026-02-20 00:00:00,Placa de Vídeo,Hardware,4500.0,4,144,Fortaleza,CE,18000.0,normal
-1252,2026-02-20 20:00:00,Monitor Ultrawide,Eletrônicos,2800.0,5,134,Rio de Janeiro,RJ,14000.0,rapida
-1253,2026-02-20 22:00:00,Cadeira Gamer,Móveis,1200.0,3,122,Belo Horizonte,MG,3600.0,rapida
-1254,2026-02-20 04:00:00,Mouse Vertical,Acessórios,242.83,2,130,Rio de Janeiro,RJ,485.66,rapida
-1255,2026-02-21 03:00:00,SSD 1TB,Hardware,600.0,1,114,Porto Alegre,RS,600.0,normal
-1256,2026-02-21 04:00:00,Headset 7.1,Acessórios,800.0,4,103,Rio de Janeiro,RJ,3200.0,rapida
-1257,2026-02-21 03:00:00,SSD 1TB,Hardware,600.0,3,108,São Paulo,SP,1800.0,rapida
-1258,2026-02-21 17:00:00,Cadeira Gamer,Móveis,1200.0,3,110,Curitiba,PR,3600.0,normal
-1259,2026-02-21 00:00:00,Laptop Gamer,Eletrônicos,7500.0,8,126,Belo Horizonte,MG,60000.0,rapida
-1260,2026-02-22 19:00:00,Laptop Gamer,Eletrônicos,7500.0,7,103,São Paulo,SP,52500.0,rapida
-1261,2026-02-22 14:00:00,Laptop Gamer,Eletrônicos,7500.0,5,129,Curitiba,PR,37500.0,normal
-1262,2026-02-22 14:00:00,Mouse Vertical,Acessórios,235.64,6,126,Salvador,BA,1413.84,normal
-1263,2026-02-22 23:00:00,Mouse Vertical,Acessórios,246.87,7,129,Belo Horizonte,MG,1728.0900000000001,rapida
-1264,2026-02-22 08:00:00,Mouse Vertical,Acessórios,236.38,1,125,Curitiba,PR,236.38,normal
-1265,2026-02-23 19:00:00,SSD 1TB,Hardware,600.0,5,144,Salvador,BA,3000.0,normal
-1266,2026-02-23 05:00:00,Placa de Vídeo,Hardware,4500.0,8,103,Rio de Janeiro,RJ,36000.0,rapida
-1267,2026-02-23 06:00:00,SSD 1TB,Hardware,600.0,7,137,Belo Horizonte,MG,4200.0,rapida
-1268,2026-02-23 21:00:00,Teclado Mecânico,Acessórios,508.21,2,104,Rio de Janeiro,RJ,1016.42,rapida
-1269,2026-02-23 09:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,114,Curitiba,PR,19600.0,normal
-1270,2026-02-24 13:00:00,Cadeira Gamer,Móveis,1200.0,1,126,Rio de Janeiro,RJ,1200.0,rapida
-1271,2026-02-24 09:00:00,Placa de Vídeo,Hardware,4500.0,1,123,Curitiba,PR,4500.0,normal
-1272,2026-02-24 22:00:00,Laptop Gamer,Eletrônicos,7500.0,7,134,Curitiba,PR,52500.0,normal
-1273,2026-02-24 13:00:00,Laptop Gamer,Eletrônicos,7500.0,2,102,Fortaleza,CE,15000.0,normal
-1274,2026-02-24 08:00:00,Headset 7.1,Acessórios,800.0,3,137,Porto Alegre,RS,2400.0,normal
-1275,2026-02-25 02:00:00,Cadeira Gamer,Móveis,1200.0,6,148,Fortaleza,CE,7200.0,normal
-1276,2026-02-25 13:00:00,Placa de Vídeo,Hardware,4500.0,3,105,Belo Horizonte,MG,13500.0,rapida
-1277,2026-02-25 17:00:00,Cadeira Gamer,Móveis,1200.0,4,129,Curitiba,PR,4800.0,normal
-1278,2026-02-25 07:00:00,Teclado Mecânico,Acessórios,522.92,3,111,Curitiba,PR,1568.7599999999998,normal
-1279,2026-02-25 19:00:00,Placa de Vídeo,Hardware,4500.0,2,138,Porto Alegre,RS,9000.0,normal
-1280,2026-02-26 10:00:00,SSD 1TB,Hardware,600.0,3,107,Rio de Janeiro,RJ,1800.0,rapida
-1281,2026-02-26 12:00:00,SSD 1TB,Hardware,600.0,6,119,Porto Alegre,RS,3600.0,normal
-1282,2026-02-26 13:00:00,Mouse Vertical,Acessórios,226.57,1,130,Salvador,BA,226.57,normal
-1283,2026-02-26 18:00:00,Teclado Mecânico,Acessórios,515.68,6,118,Belo Horizonte,MG,3094.08,rapida
-1284,2026-02-26 14:00:00,Teclado Mecânico,Acessórios,505.55,8,101,São Paulo,SP,4044.4,rapida
-1285,2026-02-27 02:00:00,Teclado Mecânico,Acessórios,528.74,5,129,Porto Alegre,RS,2643.7,normal
-1286,2026-02-27 04:00:00,Cadeira Gamer,Móveis,1200.0,3,111,Curitiba,PR,3600.0,normal
-1287,2026-02-27 02:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,132,Porto Alegre,RS,22400.0,normal
-1288,2026-02-27 03:00:00,Headset 7.1,Acessórios,800.0,8,103,Curitiba,PR,6400.0,normal
-1289,2026-02-27 06:00:00,SSD 1TB,Hardware,600.0,1,109,Salvador,BA,600.0,normal
-1290,2026-02-28 17:00:00,Teclado Mecânico,Acessórios,499.8,6,131,Belo Horizonte,MG,2998.8,rapida
-1291,2026-02-28 19:00:00,Cadeira Gamer,Móveis,1200.0,3,134,Porto Alegre,RS,3600.0,normal
-1292,2026-02-28 03:00:00,Laptop Gamer,Eletrônicos,7500.0,2,125,Rio de Janeiro,RJ,15000.0,rapida
-1293,2026-02-28 23:00:00,Teclado Mecânico,Acessórios,519.44,6,143,São Paulo,SP,3116.6400000000003,rapida
-1294,2026-02-28 12:00:00,Laptop Gamer,Eletrônicos,7500.0,1,118,Rio de Janeiro,RJ,7500.0,rapida
-1295,2026-03-01 04:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,139,São Paulo,SP,19600.0,rapida
-1296,2026-03-01 19:00:00,SSD 1TB,Hardware,600.0,1,121,Fortaleza,CE,600.0,normal
-1297,2026-03-01 22:00:00,SSD 1TB,Hardware,600.0,5,128,Salvador,BA,3000.0,normal
-1298,2026-03-01 19:00:00,Mouse Vertical,Acessórios,241.52,7,119,Curitiba,PR,1690.64,normal
-1299,2026-03-01 19:00:00,Mouse Vertical,Acessórios,226.86,2,115,Belo Horizonte,MG,453.72,rapida
-1300,2026-03-02 04:00:00,Teclado Mecânico,Acessórios,521.6,4,125,Belo Horizonte,MG,2086.4,rapida
-1301,2026-03-02 08:00:00,SSD 1TB,Hardware,600.0,5,143,São Paulo,SP,3000.0,rapida
-1302,2026-03-02 05:00:00,Laptop Gamer,Eletrônicos,7500.0,6,139,Rio de Janeiro,RJ,45000.0,rapida
-1303,2026-03-02 14:00:00,Laptop Gamer,Eletrônicos,7500.0,3,113,Salvador,BA,22500.0,normal
-1304,2026-03-02 20:00:00,Cadeira Gamer,Móveis,1200.0,1,140,Curitiba,PR,1200.0,normal
-1305,2026-03-03 17:00:00,Placa de Vídeo,Hardware,4500.0,3,144,Curitiba,PR,13500.0,normal
-1306,2026-03-03 18:00:00,Headset 7.1,Acessórios,800.0,3,103,Salvador,BA,2400.0,normal
-1307,2026-03-03 22:00:00,Teclado Mecânico,Acessórios,545.27,4,139,Curitiba,PR,2181.08,normal
-1308,2026-03-03 16:00:00,Headset 7.1,Acessórios,800.0,7,146,São Paulo,SP,5600.0,rapida
-1309,2026-03-03 07:00:00,Laptop Gamer,Eletrônicos,7500.0,6,100,Salvador,BA,45000.0,normal
-1310,2026-03-04 02:00:00,Teclado Mecânico,Acessórios,535.74,4,143,Belo Horizonte,MG,2142.96,rapida
-1311,2026-03-04 07:00:00,Headset 7.1,Acessórios,800.0,1,123,Fortaleza,CE,800.0,normal
-1312,2026-03-04 12:00:00,Placa de Vídeo,Hardware,4500.0,7,118,Belo Horizonte,MG,31500.0,rapida
-1313,2026-03-04 14:00:00,SSD 1TB,Hardware,600.0,8,126,Porto Alegre,RS,4800.0,normal
-1314,2026-03-04 01:00:00,Teclado Mecânico,Acessórios,535.24,1,141,Fortaleza,CE,535.24,normal
-1315,2026-03-05 18:00:00,Laptop Gamer,Eletrônicos,7500.0,4,111,Belo Horizonte,MG,30000.0,rapida
-1316,2026-03-05 15:00:00,Monitor Ultrawide,Eletrônicos,2800.0,4,133,Fortaleza,CE,11200.0,normal
-1317,2026-03-05 10:00:00,Headset 7.1,Acessórios,800.0,1,117,Belo Horizonte,MG,800.0,rapida
-1318,2026-03-05 19:00:00,Laptop Gamer,Eletrônicos,7500.0,1,120,Salvador,BA,7500.0,normal
-1319,2026-03-05 21:00:00,Monitor Ultrawide,Eletrônicos,2800.0,5,104,Fortaleza,CE,14000.0,normal
-1320,2026-03-06 15:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,141,Fortaleza,CE,16800.0,normal
-1321,2026-03-06 13:00:00,Cadeira Gamer,Móveis,1200.0,6,111,Salvador,BA,7200.0,normal
-1322,2026-03-06 12:00:00,Cadeira Gamer,Móveis,1200.0,1,110,Rio de Janeiro,RJ,1200.0,rapida
-1323,2026-03-06 07:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,103,Porto Alegre,RS,19600.0,normal
-1324,2026-03-06 09:00:00,Mouse Vertical,Acessórios,240.6,4,127,Fortaleza,CE,962.4,normal
-1325,2026-03-07 22:00:00,Teclado Mecânico,Acessórios,506.23,5,132,Porto Alegre,RS,2531.15,normal
-1326,2026-03-07 10:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,123,Porto Alegre,RS,19600.0,normal
-1327,2026-03-07 23:00:00,SSD 1TB,Hardware,600.0,5,129,Belo Horizonte,MG,3000.0,rapida
-1328,2026-03-07 07:00:00,Laptop Gamer,Eletrônicos,7500.0,3,109,Belo Horizonte,MG,22500.0,rapida
-1329,2026-03-07 19:00:00,Laptop Gamer,Eletrônicos,7500.0,3,106,Belo Horizonte,MG,22500.0,rapida
-1330,2026-03-08 05:00:00,SSD 1TB,Hardware,600.0,2,138,Fortaleza,CE,1200.0,normal
-1331,2026-03-08 23:00:00,Monitor Ultrawide,Eletrônicos,2800.0,2,110,Rio de Janeiro,RJ,5600.0,rapida
-1332,2026-03-08 03:00:00,Cadeira Gamer,Móveis,1200.0,8,146,Belo Horizonte,MG,9600.0,rapida
-1333,2026-03-08 23:00:00,Laptop Gamer,Eletrônicos,7500.0,4,122,Fortaleza,CE,30000.0,normal
-1334,2026-03-08 12:00:00,SSD 1TB,Hardware,600.0,8,142,Salvador,BA,4800.0,normal
-1335,2026-03-09 18:00:00,SSD 1TB,Hardware,600.0,7,101,Fortaleza,CE,4200.0,normal
-1336,2026-03-09 18:00:00,Headset 7.1,Acessórios,800.0,7,107,Porto Alegre,RS,5600.0,normal
-1337,2026-03-09 20:00:00,Placa de Vídeo,Hardware,4500.0,3,142,Salvador,BA,13500.0,normal
-1338,2026-03-09 03:00:00,Mouse Vertical,Acessórios,249.13,7,149,São Paulo,SP,1743.9099999999999,rapida
-1339,2026-03-09 02:00:00,Mouse Vertical,Acessórios,249.01,3,124,Rio de Janeiro,RJ,747.03,rapida
-1340,2026-03-10 05:00:00,Laptop Gamer,Eletrônicos,7500.0,2,147,Salvador,BA,15000.0,normal
-1341,2026-03-10 21:00:00,Headset 7.1,Acessórios,800.0,1,133,Curitiba,PR,800.0,normal
-1342,2026-03-10 01:00:00,Mouse Vertical,Acessórios,233.94,5,138,Salvador,BA,1169.7,normal
-1343,2026-03-10 08:00:00,Teclado Mecânico,Acessórios,540.51,7,137,Fortaleza,CE,3783.5699999999997,normal
-1344,2026-03-10 13:00:00,Mouse Vertical,Acessórios,243.52,3,124,Curitiba,PR,730.5600000000001,normal
-1345,2026-03-11 05:00:00,SSD 1TB,Hardware,600.0,4,145,Fortaleza,CE,2400.0,normal
-1346,2026-03-11 12:00:00,Laptop Gamer,Eletrônicos,7500.0,3,107,Rio de Janeiro,RJ,22500.0,rapida
-1347,2026-03-11 23:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,102,Belo Horizonte,MG,19600.0,rapida
-1348,2026-03-11 09:00:00,SSD 1TB,Hardware,600.0,7,106,Curitiba,PR,4200.0,normal
-1349,2026-03-11 14:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,137,Fortaleza,CE,16800.0,normal
-1350,2026-03-12 18:00:00,Teclado Mecânico,Acessórios,498.7,7,101,Porto Alegre,RS,3490.9,normal
-1351,2026-03-12 23:00:00,Mouse Vertical,Acessórios,245.57,1,133,Curitiba,PR,245.57,normal
-1352,2026-03-12 04:00:00,Mouse Vertical,Acessórios,245.13,4,105,São Paulo,SP,980.52,rapida
-1353,2026-03-12 10:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,120,Rio de Janeiro,RJ,16800.0,rapida
-1354,2026-03-12 17:00:00,SSD 1TB,Hardware,600.0,1,148,Porto Alegre,RS,600.0,normal
-1355,2026-03-13 05:00:00,Teclado Mecânico,Acessórios,516.39,8,116,São Paulo,SP,4131.12,rapida
-1356,2026-03-13 22:00:00,Teclado Mecânico,Acessórios,498.16,2,124,Fortaleza,CE,996.32,normal
-1357,2026-03-13 08:00:00,Laptop Gamer,Eletrônicos,7500.0,8,102,Belo Horizonte,MG,60000.0,rapida
-1358,2026-03-13 09:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,132,São Paulo,SP,16800.0,rapida
-1359,2026-03-13 18:00:00,Cadeira Gamer,Móveis,1200.0,5,135,Fortaleza,CE,6000.0,normal
-1360,2026-03-14 00:00:00,Monitor Ultrawide,Eletrônicos,2800.0,6,110,Rio de Janeiro,RJ,16800.0,rapida
-1361,2026-03-14 13:00:00,Cadeira Gamer,Móveis,1200.0,1,121,Belo Horizonte,MG,1200.0,rapida
-1362,2026-03-14 23:00:00,Laptop Gamer,Eletrônicos,7500.0,6,127,Salvador,BA,45000.0,normal
-1363,2026-03-14 00:00:00,Laptop Gamer,Eletrônicos,7500.0,4,146,Curitiba,PR,30000.0,normal
-1364,2026-03-14 03:00:00,Cadeira Gamer,Móveis,1200.0,7,123,Salvador,BA,8400.0,normal
-1365,2026-03-15 00:00:00,Placa de Vídeo,Hardware,4500.0,2,143,Fortaleza,CE,9000.0,normal
-1366,2026-03-15 04:00:00,Teclado Mecânico,Acessórios,497.52,4,120,Curitiba,PR,1990.08,normal
-1367,2026-03-15 01:00:00,Laptop Gamer,Eletrônicos,7500.0,6,117,São Paulo,SP,45000.0,rapida
-1368,2026-03-15 13:00:00,Mouse Vertical,Acessórios,245.12,6,106,Curitiba,PR,1470.72,normal
-1369,2026-03-15 15:00:00,Laptop Gamer,Eletrônicos,7500.0,7,121,Curitiba,PR,52500.0,normal
-1370,2026-03-16 11:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,141,Porto Alegre,RS,8400.0,normal
-1371,2026-03-16 10:00:00,Teclado Mecânico,Acessórios,525.45,6,114,Belo Horizonte,MG,3152.7000000000003,rapida
-1372,2026-03-16 00:00:00,Placa de Vídeo,Hardware,4500.0,6,135,Belo Horizonte,MG,27000.0,rapida
-1373,2026-03-16 07:00:00,Placa de Vídeo,Hardware,4500.0,5,120,São Paulo,SP,22500.0,rapida
-1374,2026-03-16 15:00:00,Teclado Mecânico,Acessórios,514.77,5,108,Porto Alegre,RS,2573.85,normal
-1375,2026-03-17 22:00:00,Teclado Mecânico,Acessórios,544.09,2,139,Fortaleza,CE,1088.18,normal
-1376,2026-03-17 07:00:00,Mouse Vertical,Acessórios,229.84,3,147,Porto Alegre,RS,689.52,normal
-1377,2026-03-17 15:00:00,Placa de Vídeo,Hardware,4500.0,3,136,Belo Horizonte,MG,13500.0,rapida
-1378,2026-03-17 22:00:00,Teclado Mecânico,Acessórios,500.47,5,135,São Paulo,SP,2502.3500000000004,rapida
-1379,2026-03-17 18:00:00,Teclado Mecânico,Acessórios,519.09,1,116,Salvador,BA,519.09,normal
-1380,2026-03-18 07:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,107,Curitiba,PR,22400.0,normal
-1381,2026-03-18 12:00:00,Placa de Vídeo,Hardware,4500.0,6,122,Porto Alegre,RS,27000.0,normal
-1382,2026-03-18 08:00:00,Monitor Ultrawide,Eletrônicos,2800.0,5,114,Belo Horizonte,MG,14000.0,rapida
-1383,2026-03-18 21:00:00,SSD 1TB,Hardware,600.0,2,110,São Paulo,SP,1200.0,rapida
-1384,2026-03-18 19:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,138,Salvador,BA,8400.0,normal
-1385,2026-03-19 15:00:00,Laptop Gamer,Eletrônicos,7500.0,7,101,Porto Alegre,RS,52500.0,normal
-1386,2026-03-19 15:00:00,Laptop Gamer,Eletrônicos,7500.0,3,139,São Paulo,SP,22500.0,rapida
-1387,2026-03-19 16:00:00,Laptop Gamer,Eletrônicos,7500.0,3,116,Belo Horizonte,MG,22500.0,rapida
-1388,2026-03-19 13:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,128,Fortaleza,CE,19600.0,normal
-1389,2026-03-19 01:00:00,Teclado Mecânico,Acessórios,509.42,4,100,Curitiba,PR,2037.68,normal
-1390,2026-03-20 03:00:00,SSD 1TB,Hardware,600.0,8,101,Belo Horizonte,MG,4800.0,rapida
-1391,2026-03-20 11:00:00,Placa de Vídeo,Hardware,4500.0,8,129,Rio de Janeiro,RJ,36000.0,rapida
-1392,2026-03-20 04:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,138,Salvador,BA,8400.0,normal
-1393,2026-03-20 09:00:00,Teclado Mecânico,Acessórios,536.15,3,111,São Paulo,SP,1608.4499999999998,rapida
-1394,2026-03-20 20:00:00,Laptop Gamer,Eletrônicos,7500.0,3,125,São Paulo,SP,22500.0,rapida
-1395,2026-03-21 09:00:00,Placa de Vídeo,Hardware,4500.0,6,132,Salvador,BA,27000.0,normal
-1396,2026-03-21 13:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,140,Salvador,BA,2800.0,normal
-1397,2026-03-21 21:00:00,Headset 7.1,Acessórios,800.0,4,125,Porto Alegre,RS,3200.0,normal
-1398,2026-03-21 16:00:00,Laptop Gamer,Eletrônicos,7500.0,5,119,Porto Alegre,RS,37500.0,normal
-1399,2026-03-21 22:00:00,Teclado Mecânico,Acessórios,542.85,2,142,Salvador,BA,1085.7,normal
-1400,2026-03-22 16:00:00,Placa de Vídeo,Hardware,4500.0,2,139,Curitiba,PR,9000.0,normal
-1401,2026-03-22 09:00:00,Laptop Gamer,Eletrônicos,7500.0,4,120,Rio de Janeiro,RJ,30000.0,rapida
-1402,2026-03-22 01:00:00,Teclado Mecânico,Acessórios,522.0,7,128,Salvador,BA,3654.0,normal
-1403,2026-03-22 15:00:00,Placa de Vídeo,Hardware,4500.0,8,109,Curitiba,PR,36000.0,normal
-1404,2026-03-22 19:00:00,Placa de Vídeo,Hardware,4500.0,3,139,Fortaleza,CE,13500.0,normal
-1405,2026-03-23 02:00:00,Mouse Vertical,Acessórios,247.95,6,108,São Paulo,SP,1487.6999999999998,rapida
-1406,2026-03-23 03:00:00,Cadeira Gamer,Móveis,1200.0,8,146,Fortaleza,CE,9600.0,normal
-1407,2026-03-23 18:00:00,Teclado Mecânico,Acessórios,526.12,5,105,Belo Horizonte,MG,2630.6,rapida
-1408,2026-03-23 05:00:00,Mouse Vertical,Acessórios,238.28,8,140,Salvador,BA,1906.24,normal
-1409,2026-03-23 03:00:00,Mouse Vertical,Acessórios,242.45,2,122,Curitiba,PR,484.9,normal
-1410,2026-03-24 17:00:00,Laptop Gamer,Eletrônicos,7500.0,6,133,São Paulo,SP,45000.0,rapida
-1411,2026-03-24 22:00:00,Placa de Vídeo,Hardware,4500.0,6,102,Rio de Janeiro,RJ,27000.0,rapida
-1412,2026-03-24 16:00:00,Cadeira Gamer,Móveis,1200.0,4,145,Porto Alegre,RS,4800.0,normal
-1413,2026-03-24 03:00:00,Laptop Gamer,Eletrônicos,7500.0,7,125,Salvador,BA,52500.0,normal
-1414,2026-03-24 05:00:00,Cadeira Gamer,Móveis,1200.0,7,142,São Paulo,SP,8400.0,rapida
-1415,2026-03-25 23:00:00,Laptop Gamer,Eletrônicos,7500.0,1,120,Fortaleza,CE,7500.0,normal
-1416,2026-03-25 09:00:00,SSD 1TB,Hardware,600.0,4,135,Porto Alegre,RS,2400.0,normal
-1417,2026-03-25 10:00:00,Laptop Gamer,Eletrônicos,7500.0,7,126,Salvador,BA,52500.0,normal
-1418,2026-03-25 23:00:00,Teclado Mecânico,Acessórios,513.86,8,103,Rio de Janeiro,RJ,4110.88,rapida
-1419,2026-03-25 01:00:00,Monitor Ultrawide,Eletrônicos,2800.0,4,106,Fortaleza,CE,11200.0,normal
-1420,2026-03-26 10:00:00,SSD 1TB,Hardware,600.0,4,111,São Paulo,SP,2400.0,rapida
-1421,2026-03-26 15:00:00,Teclado Mecânico,Acessórios,540.83,8,112,Curitiba,PR,4326.64,normal
-1422,2026-03-26 01:00:00,Mouse Vertical,Acessórios,244.74,2,122,Salvador,BA,489.48,normal
-1423,2026-03-26 22:00:00,Laptop Gamer,Eletrônicos,7500.0,6,123,Belo Horizonte,MG,45000.0,rapida
-1424,2026-03-26 15:00:00,Cadeira Gamer,Móveis,1200.0,8,133,Porto Alegre,RS,9600.0,normal
-1425,2026-03-27 14:00:00,Cadeira Gamer,Móveis,1200.0,1,140,Fortaleza,CE,1200.0,normal
-1426,2026-03-27 09:00:00,Headset 7.1,Acessórios,800.0,3,121,Rio de Janeiro,RJ,2400.0,rapida
-1427,2026-03-27 05:00:00,Laptop Gamer,Eletrônicos,7500.0,1,143,Belo Horizonte,MG,7500.0,rapida
-1428,2026-03-27 04:00:00,SSD 1TB,Hardware,600.0,8,131,Salvador,BA,4800.0,normal
-1429,2026-03-27 20:00:00,Laptop Gamer,Eletrônicos,7500.0,5,145,Porto Alegre,RS,37500.0,normal
-1430,2026-03-28 10:00:00,Headset 7.1,Acessórios,800.0,1,143,Rio de Janeiro,RJ,800.0,rapida
-1431,2026-03-28 03:00:00,Headset 7.1,Acessórios,800.0,4,141,São Paulo,SP,3200.0,rapida
-1432,2026-03-28 05:00:00,SSD 1TB,Hardware,600.0,8,132,Salvador,BA,4800.0,normal
-1433,2026-03-28 10:00:00,Monitor Ultrawide,Eletrônicos,2800.0,4,122,Belo Horizonte,MG,11200.0,rapida
-1434,2026-03-28 08:00:00,Laptop Gamer,Eletrônicos,7500.0,6,116,Belo Horizonte,MG,45000.0,rapida
-1435,2026-03-29 17:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,134,Fortaleza,CE,2800.0,normal
-1436,2026-03-29 13:00:00,Laptop Gamer,Eletrônicos,7500.0,3,103,Belo Horizonte,MG,22500.0,rapida
-1437,2026-03-29 02:00:00,Headset 7.1,Acessórios,800.0,5,146,Rio de Janeiro,RJ,4000.0,rapida
-1438,2026-03-29 06:00:00,Mouse Vertical,Acessórios,233.55,1,143,Porto Alegre,RS,233.55,normal
-1439,2026-03-29 16:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,114,Curitiba,PR,19600.0,normal
-1440,2026-03-30 07:00:00,SSD 1TB,Hardware,600.0,4,140,Rio de Janeiro,RJ,2400.0,rapida
-1441,2026-03-30 04:00:00,Cadeira Gamer,Móveis,1200.0,5,142,Belo Horizonte,MG,6000.0,rapida
-1442,2026-03-30 00:00:00,SSD 1TB,Hardware,600.0,4,141,Porto Alegre,RS,2400.0,normal
-1443,2026-03-30 16:00:00,Teclado Mecânico,Acessórios,523.96,7,106,Porto Alegre,RS,3667.7200000000003,normal
-1444,2026-03-30 22:00:00,Cadeira Gamer,Móveis,1200.0,4,106,Porto Alegre,RS,4800.0,normal
-1445,2026-03-31 13:00:00,Headset 7.1,Acessórios,800.0,5,139,Curitiba,PR,4000.0,normal
-1446,2026-03-31 02:00:00,Headset 7.1,Acessórios,800.0,6,121,Salvador,BA,4800.0,normal
-1447,2026-03-31 13:00:00,Teclado Mecânico,Acessórios,502.44,2,106,Fortaleza,CE,1004.88,normal
-1448,2026-03-31 18:00:00,Teclado Mecânico,Acessórios,536.14,3,111,São Paulo,SP,1608.42,rapida
-1449,2026-03-31 12:00:00,Laptop Gamer,Eletrônicos,7500.0,1,138,Porto Alegre,RS,7500.0,normal
-1450,2026-04-01 04:00:00,Headset 7.1,Acessórios,800.0,4,112,Fortaleza,CE,3200.0,normal
-1451,2026-04-01 02:00:00,SSD 1TB,Hardware,600.0,7,146,Belo Horizonte,MG,4200.0,rapida
-1452,2026-04-01 00:00:00,Mouse Vertical,Acessórios,247.17,7,118,Curitiba,PR,1730.1899999999998,normal
-1453,2026-04-01 23:00:00,Placa de Vídeo,Hardware,4500.0,5,106,Salvador,BA,22500.0,normal
-1454,2026-04-01 09:00:00,Headset 7.1,Acessórios,800.0,6,119,Porto Alegre,RS,4800.0,normal
-1455,2026-04-02 08:00:00,Teclado Mecânico,Acessórios,513.26,5,127,Fortaleza,CE,2566.3,normal
-1456,2026-04-02 03:00:00,SSD 1TB,Hardware,600.0,7,147,São Paulo,SP,4200.0,rapida
-1457,2026-04-02 02:00:00,Placa de Vídeo,Hardware,4500.0,8,145,Rio de Janeiro,RJ,36000.0,rapida
-1458,2026-04-02 16:00:00,Monitor Ultrawide,Eletrônicos,2800.0,7,105,Belo Horizonte,MG,19600.0,rapida
-1459,2026-04-02 00:00:00,Teclado Mecânico,Acessórios,545.92,4,100,Belo Horizonte,MG,2183.68,rapida
-1460,2026-04-03 10:00:00,SSD 1TB,Hardware,600.0,5,135,Curitiba,PR,3000.0,normal
-1461,2026-04-03 00:00:00,Teclado Mecânico,Acessórios,498.59,8,127,Porto Alegre,RS,3988.72,normal
-1462,2026-04-03 22:00:00,Monitor Ultrawide,Eletrônicos,2800.0,3,145,Salvador,BA,8400.0,normal
-1463,2026-04-03 03:00:00,Cadeira Gamer,Móveis,1200.0,5,118,Rio de Janeiro,RJ,6000.0,rapida
-1464,2026-04-03 15:00:00,Laptop Gamer,Eletrônicos,7500.0,6,102,Porto Alegre,RS,45000.0,normal
-1465,2026-04-04 20:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,131,Belo Horizonte,MG,22400.0,rapida
-1466,2026-04-04 15:00:00,Mouse Vertical,Acessórios,233.68,7,124,Salvador,BA,1635.76,normal
-1467,2026-04-04 09:00:00,Laptop Gamer,Eletrônicos,7500.0,7,112,Belo Horizonte,MG,52500.0,rapida
-1468,2026-04-04 12:00:00,Placa de Vídeo,Hardware,4500.0,4,108,São Paulo,SP,18000.0,rapida
-1469,2026-04-04 19:00:00,Headset 7.1,Acessórios,800.0,3,125,Curitiba,PR,2400.0,normal
-1470,2026-04-05 05:00:00,Monitor Ultrawide,Eletrônicos,2800.0,1,135,Salvador,BA,2800.0,normal
-1471,2026-04-05 14:00:00,Laptop Gamer,Eletrônicos,7500.0,8,130,Belo Horizonte,MG,60000.0,rapida
-1472,2026-04-05 06:00:00,Monitor Ultrawide,Eletrônicos,2800.0,5,120,São Paulo,SP,14000.0,rapida
-1473,2026-04-05 17:00:00,Cadeira Gamer,Móveis,1200.0,7,114,Porto Alegre,RS,8400.0,normal
-1474,2026-04-05 03:00:00,Placa de Vídeo,Hardware,4500.0,1,103,São Paulo,SP,4500.0,rapida
-1475,2026-04-06 02:00:00,Placa de Vídeo,Hardware,4500.0,2,117,São Paulo,SP,9000.0,rapida
-1476,2026-04-06 13:00:00,Laptop Gamer,Eletrônicos,7500.0,7,138,São Paulo,SP,52500.0,rapida
-1477,2026-04-06 07:00:00,Placa de Vídeo,Hardware,4500.0,3,110,Fortaleza,CE,13500.0,normal
-1478,2026-04-06 14:00:00,Placa de Vídeo,Hardware,4500.0,4,136,Fortaleza,CE,18000.0,normal
-1479,2026-04-06 06:00:00,Placa de Vídeo,Hardware,4500.0,8,143,Curitiba,PR,36000.0,normal
-1480,2026-04-07 03:00:00,Headset 7.1,Acessórios,800.0,8,119,Belo Horizonte,MG,6400.0,rapida
-1481,2026-04-07 18:00:00,Teclado Mecânico,Acessórios,505.5,3,135,Curitiba,PR,1516.5,normal
-1482,2026-04-07 08:00:00,Placa de Vídeo,Hardware,4500.0,1,122,Belo Horizonte,MG,4500.0,rapida
-1483,2026-04-07 04:00:00,Teclado Mecânico,Acessórios,537.44,4,139,Porto Alegre,RS,2149.76,normal
-1484,2026-04-07 22:00:00,Teclado Mecânico,Acessórios,544.55,2,122,Curitiba,PR,1089.1,normal
-1485,2026-04-08 23:00:00,Placa de Vídeo,Hardware,4500.0,8,119,São Paulo,SP,36000.0,rapida
-1486,2026-04-08 21:00:00,Cadeira Gamer,Móveis,1200.0,7,146,Rio de Janeiro,RJ,8400.0,rapida
-1487,2026-04-08 16:00:00,Teclado Mecânico,Acessórios,497.23,1,135,Rio de Janeiro,RJ,497.23,rapida
-1488,2026-04-08 23:00:00,Placa de Vídeo,Hardware,4500.0,4,111,Rio de Janeiro,RJ,18000.0,rapida
-1489,2026-04-08 19:00:00,Placa de Vídeo,Hardware,4500.0,2,131,Rio de Janeiro,RJ,9000.0,rapida
-1490,2026-04-09 02:00:00,Headset 7.1,Acessórios,800.0,5,124,Fortaleza,CE,4000.0,normal
-1491,2026-04-09 04:00:00,Mouse Vertical,Acessórios,237.72,2,140,São Paulo,SP,475.44,rapida
-1492,2026-04-09 05:00:00,Mouse Vertical,Acessórios,244.47,4,121,Fortaleza,CE,977.88,normal
-1493,2026-04-09 11:00:00,Mouse Vertical,Acessórios,236.52,8,146,Belo Horizonte,MG,1892.16,rapida
-1494,2026-04-09 04:00:00,Monitor Ultrawide,Eletrônicos,2800.0,8,104,Curitiba,PR,22400.0,normal
-1495,2026-04-10 13:00:00,Teclado Mecânico,Acessórios,547.39,3,106,Rio de Janeiro,RJ,1642.17,rapida
-1496,2026-04-10 09:00:00,Placa de Vídeo,Hardware,4500.0,8,139,Fortaleza,CE,36000.0,normal
-1497,2026-04-10 23:00:00,SSD 1TB,Hardware,600.0,6,141,Belo Horizonte,MG,3600.0,rapida
-1498,2026-04-10 00:00:00,Headset 7.1,Acessórios,800.0,3,108,Porto Alegre,RS,2400.0,normal
-1499,2026-04-10 08:00:00,Teclado Mecânico,Acessórios,541.21,3,147,Belo Horizonte,MG,1623.63,rapida
+1000,2025-07-05 02:33:27,Impressora Multifuncional,Periféricos,850.0,5,138,Salvador,BA,4250.0,normal
+1001,2025-12-19 19:17:46,Capa para Tablet,Acessórios,95.0,2,128,Fortaleza,CE,190.0,normal
+1002,2025-11-16 07:47:20,Dock Station,Periféricos,740.0,2,114,Serra,ES,1480.0,rapida
+1003,2025-06-24 21:51:13,Gabinete Mid Tower,Hardware,430.0,2,142,São Paulo,SP,860.0,rapida
+1004,2025-11-04 23:10:59,Capa para Tablet,Acessórios,95.0,1,107,Campo Grande,MS,95.0,normal
+1005,2025-06-25 14:39:19,Base Cooler Notebook,Acessórios,201.57,7,138,Contagem,MG,1410.99,rapida
+1006,2026-01-20 16:35:50,Water Cooler 360mm,Hardware,750.0,1,118,Santo André,SP,750.0,rapida
+1007,2025-08-11 03:21:52,Repetidor de Sinal,Redes,190.0,7,122,Belo Horizonte,MG,1330.0,rapida
+1008,2025-05-10 16:40:07,Tablet Pro,Eletrônicos,2900.0,6,110,Belo Horizonte,MG,17400.0,rapida
+1009,2026-02-24 03:13:12,Headset 7.1,Acessórios,800.0,6,110,São Luís,MA,4800.0,normal
+1010,2026-01-09 09:35:35,Console de Games,Eletrônicos,4200.0,1,123,Osasco,SP,4200.0,rapida
+1011,2025-05-01 14:28:15,SSD NVMe 2TB,Hardware,950.0,7,135,Nova Iguaçu,RJ,6650.0,rapida
+1012,2025-11-11 05:18:43,Poltrona Ergonômica,Móveis,1800.0,6,139,Belém,PA,10800.0,normal
+1013,2025-12-13 19:25:15,Base Cooler Notebook,Acessórios,203.87,1,121,Contagem,MG,203.87,rapida
+1014,2026-02-27 04:08:20,Capa para Tablet,Acessórios,95.0,2,101,Joinville,SC,190.0,normal
+1015,2025-07-17 22:54:06,Capa para Tablet,Acessórios,95.0,7,123,Ananindeua,PA,665.0,normal
+1016,2025-06-03 04:02:45,SSD NVMe 2TB,Hardware,950.0,6,143,São José dos Campos,SP,5700.0,rapida
+1017,2025-12-29 13:26:21,Processador Octa-Core,Hardware,1800.0,5,129,Campinas,SP,9000.0,rapida
+1018,2025-11-23 13:30:44,Tomada Inteligente,Casa Inteligente,95.0,2,137,Sorocaba,SP,190.0,rapida
+1019,2025-06-03 11:01:17,Impressora Multifuncional,Periféricos,850.0,4,101,Belo Horizonte,MG,3400.0,rapida
+1020,2025-12-22 21:04:02,SSD NVMe 2TB,Hardware,950.0,4,120,São Luís,MA,3800.0,normal
+1021,2025-06-28 22:52:57,Webcam 4K,Eletrônicos,650.0,1,132,Niterói,RJ,650.0,rapida
+1022,2025-09-03 19:07:36,Switch 8 Portas,Redes,260.0,6,111,São Paulo,SP,1560.0,rapida
+1023,2025-06-22 13:49:22,Tablet Pro,Eletrônicos,2900.0,6,121,Brasília,DF,17400.0,normal
+1024,2025-05-26 11:39:35,Scanner Portátil,Periféricos,620.0,8,143,Campo Grande,MS,4960.0,normal
+1025,2026-01-16 02:40:24,Notebook Ultrafino,Eletrônicos,4300.0,5,124,Fortaleza,CE,21500.0,normal
+1026,2025-08-19 14:03:05,Mesa Gamer em L,Móveis,1600.0,7,148,Maceió,AL,11200.0,normal
+1027,2025-10-15 21:07:45,Capa para Tablet,Acessórios,95.0,3,126,Santos,SP,285.0,rapida
+1028,2026-03-01 10:03:39,Mesa de Escritório,Móveis,950.0,1,141,Brasília,DF,950.0,normal
+1029,2026-02-02 14:42:53,SSD 1TB,Hardware,600.0,3,127,Belo Horizonte,MG,1800.0,rapida
+1030,2025-08-28 10:17:28,Mesa Digitalizadora,Periféricos,558.53,2,114,Maceió,AL,1117.06,normal
+1031,2025-10-23 11:42:11,Memória RAM 16GB,Hardware,350.0,8,146,Osasco,SP,2800.0,rapida
+1032,2025-12-21 04:42:03,Notebook Ultrafino,Eletrônicos,4300.0,1,143,Mauá,SP,4300.0,rapida
+1033,2026-01-24 11:51:33,Leitor Digital,Periféricos,550.0,5,102,Salvador,BA,2750.0,normal
+1034,2025-09-16 20:18:21,Scanner Portátil,Periféricos,620.0,5,136,Guarulhos,SP,3100.0,rapida
+1035,2025-10-12 09:48:02,Carregador Turbo,Acessórios,160.0,5,106,Natal,RN,800.0,normal
+1036,2026-03-05 01:49:16,Caixa de Som USB,Periféricos,128.39,2,138,Manaus,AM,256.78,normal
+1037,2025-05-30 08:33:54,Impressora Multifuncional,Periféricos,850.0,4,117,Porto Alegre,RS,3400.0,normal
+1038,2025-11-19 14:34:05,Processador Octa-Core,Hardware,1800.0,1,103,Cuiabá,MT,1800.0,normal
+1039,2026-03-27 19:49:36,Webcam 4K,Eletrônicos,650.0,2,124,Teresina,PI,1300.0,normal
+1040,2025-07-02 23:51:26,Processador Octa-Core,Hardware,1800.0,5,113,Porto Velho,RO,9000.0,normal
+1041,2025-05-04 06:20:52,Monitor Ultrawide,Eletrônicos,2800.0,2,149,Recife,PE,5600.0,normal
+1042,2026-01-21 09:19:33,Leitor Digital,Periféricos,550.0,2,108,Teresina,PI,1100.0,normal
+1043,2025-12-13 05:19:24,Luminária de Mesa,Móveis,130.0,3,125,Cuiabá,MT,390.0,normal
+1044,2025-07-12 22:30:24,Cooler RGB,Hardware,150.0,3,101,Macapá,AP,450.0,normal
+1045,2025-06-22 06:06:08,Suporte para Monitor,Móveis,240.0,7,119,Porto Velho,RO,1680.0,normal
+1046,2026-01-02 21:09:57,Tomada Inteligente,Casa Inteligente,95.0,4,127,São Bernardo do Campo,SP,380.0,rapida
+1047,2025-09-18 03:23:19,Projetor Full HD,Eletrônicos,2100.0,6,146,São Gonçalo,RJ,12600.0,rapida
+1048,2025-07-06 06:38:52,Assistente Virtual,Casa Inteligente,350.0,2,106,Nova Iguaçu,RJ,700.0,rapida
+1049,2025-11-15 11:26:04,Capa para Tablet,Acessórios,95.0,1,143,Rio de Janeiro,RJ,95.0,rapida
+1050,2025-04-03 19:01:24,Poltrona Ergonômica,Móveis,1800.0,4,107,Recife,PE,7200.0,normal
+1051,2025-06-28 21:53:31,Cadeira Gamer,Móveis,1200.0,1,146,Contagem,MG,1200.0,rapida
+1052,2025-04-28 12:26:18,Cadeira Gamer,Móveis,1200.0,6,134,Caxias do Sul,RS,7200.0,normal
+1053,2025-06-23 04:49:54,Estante Modular,Móveis,700.0,8,113,Recife,PE,5600.0,normal
+1054,2025-07-04 08:53:54,Luminária de Mesa,Móveis,130.0,8,116,Fortaleza,CE,1040.0,normal
+1055,2025-06-13 22:44:56,Roteador Wi-Fi 6,Redes,480.0,7,135,Natal,RN,3360.0,normal
+1056,2025-08-16 14:17:33,Placa de Vídeo,Hardware,4500.0,7,149,Salvador,BA,31500.0,normal
+1057,2025-12-18 12:12:44,Gabinete Mid Tower,Hardware,430.0,1,139,São Gonçalo,RJ,430.0,rapida
+1058,2025-04-24 12:57:03,Scanner Portátil,Periféricos,620.0,2,103,São José do Rio Preto,SP,1240.0,rapida
+1059,2025-07-06 13:38:42,Placa-Mãe ATX,Hardware,900.0,2,101,Aracaju,SE,1800.0,normal
+1060,2025-05-25 10:35:37,Base Cooler Notebook,Acessórios,197.93,8,141,Manaus,AM,1583.44,normal
+1061,2025-07-07 00:21:53,Gabinete Mid Tower,Hardware,430.0,8,103,Manaus,AM,3440.0,normal
+1062,2026-02-08 19:18:47,Câmera de Segurança 360,Casa Inteligente,340.0,8,128,Florianópolis,SC,2720.0,normal
+1063,2025-04-20 15:31:02,Câmera de Segurança 360,Casa Inteligente,340.0,2,117,Ananindeua,PA,680.0,normal
+1064,2025-05-07 05:16:19,Scanner Portátil,Periféricos,620.0,1,125,Santos,SP,620.0,rapida
+1065,2025-06-04 14:07:54,Tomada Inteligente,Casa Inteligente,95.0,4,143,Cuiabá,MT,380.0,normal
+1066,2026-03-02 19:07:32,Fonte 750W,Hardware,520.0,4,133,Teresina,PI,2080.0,normal
+1067,2025-08-26 04:17:07,Placa-Mãe ATX,Hardware,900.0,3,109,Serra,ES,2700.0,rapida
+1068,2026-03-26 19:46:27,Laptop Gamer,Eletrônicos,7500.0,5,135,São José do Rio Preto,SP,37500.0,rapida
+1069,2025-09-12 06:42:55,Roteador Wi-Fi 6,Redes,480.0,5,113,Joinville,SC,2400.0,normal
+1070,2025-05-31 02:48:39,Controle Sem Fio,Periféricos,272.36,8,114,Macapá,AP,2178.88,normal
+1071,2025-11-11 22:21:05,Base Cooler Notebook,Acessórios,190.86,1,122,Belém,PA,190.86,normal
+1072,2025-04-23 04:49:08,Dock Station,Periféricos,740.0,6,139,São Bernardo do Campo,SP,4440.0,rapida
+1073,2025-04-23 02:09:21,Monitor Ultrawide,Eletrônicos,2800.0,3,120,Santo André,SP,8400.0,rapida
+1074,2025-04-27 14:39:54,Estante Modular,Móveis,700.0,3,115,Brasília,DF,2100.0,normal
+1075,2025-09-04 19:27:39,Apoio para Pés,Móveis,110.0,4,144,Brasília,DF,440.0,normal
+1076,2025-11-11 19:55:00,SSD 1TB,Hardware,600.0,4,117,Vila Velha,ES,2400.0,rapida
+1077,2025-09-10 19:27:33,Apoio para Pés,Móveis,110.0,2,146,Rio de Janeiro,RJ,220.0,rapida
+1078,2026-03-30 00:05:37,Microfone Condensador,Periféricos,471.78,6,125,Santo André,SP,2830.68,rapida
+1079,2025-07-02 16:42:51,Notebook Ultrafino,Eletrônicos,4300.0,6,124,Curitiba,PR,25800.0,normal
+1080,2025-09-25 13:38:30,Notebook Ultrafino,Eletrônicos,4300.0,5,144,São Gonçalo,RJ,21500.0,rapida
+1081,2025-04-04 14:49:34,Webcam 4K,Eletrônicos,650.0,2,140,Florianópolis,SC,1300.0,normal
+1082,2025-04-29 10:50:21,SSD NVMe 2TB,Hardware,950.0,2,128,Jaboatão dos Guararapes,PE,1900.0,normal
+1083,2025-05-22 10:35:04,Luminária de Mesa,Móveis,130.0,5,114,Curitiba,PR,650.0,normal
+1084,2026-03-08 11:23:33,Tomada Inteligente,Casa Inteligente,95.0,2,144,Campinas,SP,190.0,rapida
+1085,2025-09-18 04:10:34,Smart TV 55 Polegadas,Eletrônicos,3200.0,3,100,Campinas,SP,9600.0,rapida
+1086,2025-11-24 13:14:59,Access Point Dual Band,Redes,530.0,5,124,São Bernardo do Campo,SP,2650.0,rapida
+1087,2025-12-16 08:56:10,Repetidor de Sinal,Redes,190.0,1,106,Ribeirão Preto,SP,190.0,rapida
+1088,2026-03-31 15:27:42,Switch 8 Portas,Redes,260.0,2,108,São Bernardo do Campo,SP,520.0,rapida
+1089,2026-03-12 12:43:24,Fechadura Digital,Casa Inteligente,680.0,2,123,Fortaleza,CE,1360.0,normal
+1090,2025-07-15 18:28:09,Placa de Vídeo,Hardware,4500.0,3,100,Feira de Santana,BA,13500.0,normal
+1091,2025-06-19 01:39:52,Smartphone 5G,Eletrônicos,2400.0,6,143,Osasco,SP,14400.0,rapida
+1092,2025-10-14 06:45:13,Mesa Digitalizadora,Periféricos,520.44,5,110,São José dos Campos,SP,2602.2000000000003,rapida
+1093,2025-05-06 20:17:02,Mesa de Escritório,Móveis,950.0,1,116,Goiânia,GO,950.0,normal
+1094,2025-04-18 02:55:06,Impressora Multifuncional,Periféricos,850.0,5,107,Maceió,AL,4250.0,normal
+1095,2025-12-04 10:19:37,Laptop Gamer,Eletrônicos,7500.0,3,134,Guarulhos,SP,22500.0,rapida
+1096,2025-11-01 06:02:03,Notebook Ultrafino,Eletrônicos,4300.0,8,134,Belo Horizonte,MG,34400.0,rapida
+1097,2025-05-14 10:44:24,Stream Deck Mini,Periféricos,650.0,1,132,Maceió,AL,650.0,normal
+1098,2025-10-29 21:16:12,Cadeira Gamer,Móveis,1200.0,3,104,Macapá,AP,3600.0,normal
+1099,2025-09-14 21:54:09,Teclado Mecânico,Acessórios,545.95,3,140,Aparecida de Goiânia,GO,1637.8500000000001,normal
+1100,2026-03-16 03:06:53,Hub USB-C,Acessórios,218.13,6,108,Rio de Janeiro,RJ,1308.78,rapida
+1101,2026-03-16 02:35:05,Tomada Inteligente,Casa Inteligente,95.0,1,107,Juiz de Fora,MG,95.0,rapida
+1102,2025-12-16 00:16:11,Console de Games,Eletrônicos,4200.0,4,111,Curitiba,PR,16800.0,normal
+1103,2025-11-28 00:59:04,Placa de Vídeo,Hardware,4500.0,7,133,Campinas,SP,31500.0,rapida
+1104,2026-03-02 18:42:33,Dock Station,Periféricos,740.0,4,132,Belo Horizonte,MG,2960.0,rapida
+1105,2026-03-09 07:23:40,Carregador Turbo,Acessórios,160.0,3,147,São José do Rio Preto,SP,480.0,rapida
+1106,2026-01-29 20:22:14,Fonte 750W,Hardware,520.0,6,122,São Paulo,SP,3120.0,rapida
+1107,2025-07-13 14:48:34,Tomada Inteligente,Casa Inteligente,95.0,4,123,São Gonçalo,RJ,380.0,rapida
+1108,2025-08-27 13:32:50,Carregador Turbo,Acessórios,160.0,2,136,Juiz de Fora,MG,320.0,rapida
+1109,2025-06-26 09:13:57,Câmera de Segurança 360,Casa Inteligente,340.0,8,134,Rio de Janeiro,RJ,2720.0,rapida
+1110,2025-08-14 19:03:09,Base Cooler Notebook,Acessórios,201.42,8,121,Londrina,PR,1611.36,normal
+1111,2025-06-26 13:47:53,Projetor Full HD,Eletrônicos,2100.0,4,126,Aparecida de Goiânia,GO,8400.0,normal
+1112,2025-08-06 11:37:23,Mouse Vertical,Acessórios,239.03,7,134,Ribeirão Preto,SP,1673.21,rapida
+1113,2025-08-15 08:55:08,Tablet Pro,Eletrônicos,2900.0,5,136,Ananindeua,PA,14500.0,normal
+1114,2026-03-31 18:19:28,Scanner Portátil,Periféricos,620.0,6,146,Campo Grande,MS,3720.0,normal
+1115,2025-06-09 08:22:21,Mouse Vertical,Acessórios,242.83,5,100,Salvador,BA,1214.15,normal
+1116,2025-04-15 20:34:58,Mesa Gamer em L,Móveis,1600.0,5,104,Mauá,SP,8000.0,rapida
+1117,2026-01-08 22:31:55,Placa de Vídeo,Hardware,4500.0,6,125,Osasco,SP,27000.0,rapida
+1118,2025-08-28 14:16:53,Roteador Wi-Fi 6,Redes,480.0,2,113,Porto Alegre,RS,960.0,normal
+1119,2025-04-18 05:42:44,Assistente Virtual,Casa Inteligente,350.0,5,138,João Pessoa,PB,1750.0,normal
+1120,2025-08-20 10:47:24,Stream Deck Mini,Periféricos,650.0,4,126,Duque de Caxias,RJ,2600.0,rapida
+1121,2025-11-29 00:13:45,Gabinete Mid Tower,Hardware,430.0,6,108,Brasília,DF,2580.0,normal
+1122,2026-01-05 12:35:45,Webcam 4K,Eletrônicos,650.0,2,114,Ribeirão Preto,SP,1300.0,rapida
+1123,2025-12-15 23:53:32,Assistente Virtual,Casa Inteligente,350.0,5,114,Porto Alegre,RS,1750.0,normal
+1124,2025-11-02 07:29:55,Fonte 750W,Hardware,520.0,5,125,Guarulhos,SP,2600.0,rapida
+1125,2025-12-20 01:03:38,Hub USB-C,Acessórios,198.56,7,112,Manaus,AM,1389.92,normal
+1126,2025-09-05 16:53:41,Dock Station,Periféricos,740.0,5,131,Serra,ES,3700.0,rapida
+1127,2025-07-21 10:13:46,Poltrona Ergonômica,Móveis,1800.0,5,138,Aparecida de Goiânia,GO,9000.0,normal
+1128,2025-09-28 14:00:14,Fone Bluetooth Esportivo,Acessórios,300.0,6,148,Maceió,AL,1800.0,normal
+1129,2025-10-16 12:29:13,Water Cooler 360mm,Hardware,750.0,4,131,Duque de Caxias,RJ,3000.0,rapida
+1130,2025-12-12 20:56:02,Cooler RGB,Hardware,150.0,3,103,Juiz de Fora,MG,450.0,rapida
+1131,2025-05-07 06:25:54,Headset 7.1,Acessórios,800.0,6,129,Belém,PA,4800.0,normal
+1132,2025-12-18 06:54:36,Switch 8 Portas,Redes,260.0,4,136,Macapá,AP,1040.0,normal
+1133,2025-05-28 05:26:18,Projetor Full HD,Eletrônicos,2100.0,4,122,Curitiba,PR,8400.0,normal
+1134,2025-11-24 09:29:10,Mouse Vertical,Acessórios,240.11,8,114,Rio de Janeiro,RJ,1920.88,rapida
+1135,2025-09-08 22:52:12,Cabo de Rede Cat6,Redes,45.0,8,142,Joinville,SC,360.0,normal
+1136,2026-01-04 23:28:09,Fechadura Digital,Casa Inteligente,680.0,4,128,São José dos Campos,SP,2720.0,rapida
+1137,2025-07-04 18:05:59,Controle Sem Fio,Periféricos,258.41,7,131,São Luís,MA,1808.8700000000001,normal
+1138,2026-03-13 16:11:33,Suporte para Notebook,Acessórios,180.0,1,106,Ribeirão Preto,SP,180.0,rapida
+1139,2026-01-28 07:24:14,Caixa de Som USB,Periféricos,130.06,2,121,Ananindeua,PA,260.12,normal
+1140,2025-04-20 12:04:09,Gabinete Mid Tower,Hardware,430.0,8,127,Curitiba,PR,3440.0,normal
+1141,2025-09-25 06:31:57,Poltrona Ergonômica,Móveis,1800.0,2,101,Goiânia,GO,3600.0,normal
+1142,2026-01-19 07:26:25,Hub USB-C,Acessórios,211.74,6,105,Juiz de Fora,MG,1270.44,rapida
+1143,2026-02-17 13:27:56,Assistente Virtual,Casa Inteligente,350.0,7,127,Duque de Caxias,RJ,2450.0,rapida
+1144,2026-01-14 19:22:15,Lâmpada Smart,Casa Inteligente,80.0,3,127,São Bernardo do Campo,SP,240.0,rapida
+1145,2026-01-17 23:04:03,Câmera de Segurança 360,Casa Inteligente,340.0,5,143,Teresina,PI,1700.0,normal
+1146,2026-01-23 09:54:03,Smart TV 55 Polegadas,Eletrônicos,3200.0,5,143,Niterói,RJ,16000.0,rapida
+1147,2025-07-16 15:26:01,Adaptador Bluetooth,Periféricos,85.0,4,119,Nova Iguaçu,RJ,340.0,rapida
+1148,2025-07-01 01:38:18,Water Cooler 360mm,Hardware,750.0,5,129,Brasília,DF,3750.0,normal
+1149,2025-05-24 17:44:23,Tablet Pro,Eletrônicos,2900.0,2,110,Guarulhos,SP,5800.0,rapida
+1150,2025-12-31 08:18:13,Suporte para Notebook,Acessórios,180.0,3,127,Recife,PE,540.0,normal
+1151,2025-08-07 12:02:17,Fone Bluetooth Esportivo,Acessórios,300.0,7,124,Rio de Janeiro,RJ,2100.0,rapida
+1152,2025-06-20 07:50:10,Luminária de Mesa,Móveis,130.0,1,138,Natal,RN,130.0,normal
+1153,2026-02-27 17:19:16,Access Point Dual Band,Redes,530.0,1,132,Maceió,AL,530.0,normal
+1154,2025-10-03 05:46:24,Fechadura Digital,Casa Inteligente,680.0,7,100,Cuiabá,MT,4760.0,normal
+1155,2026-01-18 14:53:49,Laptop Gamer,Eletrônicos,7500.0,5,126,Vila Velha,ES,37500.0,rapida
+1156,2025-10-27 00:34:45,Memória RAM 16GB,Hardware,350.0,7,112,Niterói,RJ,2450.0,rapida
+1157,2025-10-07 14:37:42,Dock Station,Periféricos,740.0,4,140,Feira de Santana,BA,2960.0,normal
+1158,2025-04-12 06:31:51,Capa para Tablet,Acessórios,95.0,8,102,Goiânia,GO,760.0,normal
+1159,2026-01-07 05:51:34,Memória RAM 16GB,Hardware,350.0,7,138,Guarulhos,SP,2450.0,rapida
+1160,2025-11-28 15:51:18,Carregador Turbo,Acessórios,160.0,3,105,Niterói,RJ,480.0,rapida
+1161,2025-11-16 20:50:25,Luminária de Mesa,Móveis,130.0,7,107,São Paulo,SP,910.0,rapida
+1162,2025-12-06 14:51:39,Gaveteiro,Móveis,420.0,2,126,Ribeirão Preto,SP,840.0,rapida
+1163,2025-06-10 13:50:14,Gabinete Mid Tower,Hardware,430.0,8,108,Fortaleza,CE,3440.0,normal
+1164,2025-06-22 04:49:00,Monitor Ultrawide,Eletrônicos,2800.0,6,136,Goiânia,GO,16800.0,normal
+1165,2025-07-18 01:32:22,SSD NVMe 2TB,Hardware,950.0,7,132,Guarulhos,SP,6650.0,rapida
+1166,2025-07-07 23:20:27,Caixa de Som USB,Periféricos,127.68,7,143,Macapá,AP,893.76,normal
+1167,2026-01-16 21:24:43,Access Point Dual Band,Redes,530.0,1,123,Brasília,DF,530.0,normal
+1168,2025-06-27 01:54:07,Luminária de Mesa,Móveis,130.0,6,114,Rio de Janeiro,RJ,780.0,rapida
+1169,2026-01-18 21:57:46,Scanner Portátil,Periféricos,620.0,1,131,Brasília,DF,620.0,normal
+1170,2026-02-20 22:10:47,Mouse Vertical,Acessórios,237.97,4,140,Macapá,AP,951.88,normal
+1171,2025-05-20 00:27:53,Mouse Vertical,Acessórios,235.1,4,148,Jaboatão dos Guararapes,PE,940.4,normal
+1172,2025-09-28 14:25:51,Cooler RGB,Hardware,150.0,4,111,Uberlândia,MG,600.0,rapida
+1173,2025-06-05 03:54:29,Controle Sem Fio,Periféricos,259.05,6,101,Goiânia,GO,1554.3000000000002,normal
+1174,2026-01-28 01:32:44,Apoio para Pés,Móveis,110.0,2,102,Osasco,SP,220.0,rapida
+1175,2025-05-12 23:33:12,Switch 8 Portas,Redes,260.0,5,148,Belo Horizonte,MG,1300.0,rapida
+1176,2025-11-10 14:48:52,Mesa Gamer em L,Móveis,1600.0,5,136,São Paulo,SP,8000.0,rapida
+1177,2025-09-02 01:05:14,Mesa Digitalizadora,Periféricos,519.95,7,116,Caxias do Sul,RS,3639.6500000000005,normal
+1178,2025-05-10 13:47:20,Stream Deck Mini,Periféricos,650.0,4,148,Manaus,AM,2600.0,normal
+1179,2026-02-04 05:22:31,Controle Sem Fio,Periféricos,279.35,2,127,Joinville,SC,558.7,normal
+1180,2025-10-24 21:32:44,Gaveteiro,Móveis,420.0,6,122,Joinville,SC,2520.0,normal
+1181,2025-10-14 11:53:46,Gabinete Mid Tower,Hardware,430.0,2,136,Ribeirão Preto,SP,860.0,rapida
+1182,2026-02-14 08:40:46,Scanner Portátil,Periféricos,620.0,7,131,Guarulhos,SP,4340.0,rapida
+1183,2025-12-03 20:04:57,Mesa de Escritório,Móveis,950.0,6,132,Salvador,BA,5700.0,normal
+1184,2025-09-17 03:02:03,Assistente Virtual,Casa Inteligente,350.0,3,100,Aparecida de Goiânia,GO,1050.0,normal
+1185,2025-11-26 04:43:09,Cabo HDMI 2.1,Acessórios,90.0,5,118,Feira de Santana,BA,450.0,normal
+1186,2025-09-28 12:56:15,Repetidor de Sinal,Redes,190.0,8,101,Florianópolis,SC,1520.0,normal
+1187,2025-08-04 04:05:47,Gabinete Mid Tower,Hardware,430.0,5,143,Aparecida de Goiânia,GO,2150.0,normal
+1188,2025-07-18 07:47:58,Cabo de Rede Cat6,Redes,45.0,2,125,Recife,PE,90.0,normal
+1189,2025-11-08 07:23:01,Fechadura Digital,Casa Inteligente,680.0,8,131,Duque de Caxias,RJ,5440.0,rapida
+1190,2025-04-12 03:30:12,Escrivaninha Compacta,Móveis,780.0,6,105,Uberlândia,MG,4680.0,rapida
+1191,2025-10-07 08:17:41,Mesa de Escritório,Móveis,950.0,3,131,Niterói,RJ,2850.0,rapida
+1192,2025-08-11 04:11:16,Fone Bluetooth Esportivo,Acessórios,300.0,5,103,Campinas,SP,1500.0,rapida
+1193,2025-11-02 20:20:52,Tablet Pro,Eletrônicos,2900.0,5,110,Porto Velho,RO,14500.0,normal
+1194,2025-05-04 05:58:14,Laptop Gamer,Eletrônicos,7500.0,4,116,Nova Iguaçu,RJ,30000.0,rapida
+1195,2025-11-02 14:37:02,Smart TV 55 Polegadas,Eletrônicos,3200.0,8,137,Aracaju,SE,25600.0,normal
+1196,2025-12-07 20:15:04,Caixa de Som USB,Periféricos,131.15,8,133,Recife,PE,1049.2,normal
+1197,2025-05-07 03:19:12,Stream Deck Mini,Periféricos,650.0,1,105,Teresina,PI,650.0,normal
+1198,2025-07-28 22:02:49,Smartphone 5G,Eletrônicos,2400.0,4,121,Curitiba,PR,9600.0,normal
+1199,2025-11-01 22:44:30,Microfone Condensador,Periféricos,457.72,8,147,Santo André,SP,3661.76,rapida
+1200,2025-08-15 15:06:42,Suporte para Monitor,Móveis,240.0,6,115,Guarulhos,SP,1440.0,rapida
+1201,2025-07-07 15:15:07,Controle Sem Fio,Periféricos,275.39,5,105,Natal,RN,1376.9499999999998,normal
+1202,2025-08-01 13:07:12,Capa para Tablet,Acessórios,95.0,4,115,Salvador,BA,380.0,normal
+1203,2025-06-14 09:17:28,SSD 1TB,Hardware,600.0,3,128,Feira de Santana,BA,1800.0,normal
+1204,2026-01-07 09:37:18,Fone Bluetooth Esportivo,Acessórios,300.0,5,102,Feira de Santana,BA,1500.0,normal
+1205,2025-05-10 00:58:16,Mesa Gamer em L,Móveis,1600.0,5,119,São José do Rio Preto,SP,8000.0,rapida
+1206,2025-08-19 03:39:19,Access Point Dual Band,Redes,530.0,4,135,Manaus,AM,2120.0,normal
+1207,2025-07-16 12:46:00,Cabo HDMI 2.1,Acessórios,90.0,3,118,Porto Alegre,RS,270.0,normal
+1208,2025-12-27 20:24:04,Teclado Mecânico,Acessórios,534.11,5,118,São José do Rio Preto,SP,2670.55,rapida
+1209,2025-05-10 20:11:10,Hub USB-C,Acessórios,205.67,8,106,São José dos Campos,SP,1645.36,rapida
+1210,2025-09-30 07:05:47,Câmera de Segurança 360,Casa Inteligente,340.0,5,140,São Paulo,SP,1700.0,rapida
+1211,2025-04-20 22:51:56,Cooler RGB,Hardware,150.0,3,132,Duque de Caxias,RJ,450.0,rapida
+1212,2025-05-15 07:22:09,Notebook Ultrafino,Eletrônicos,4300.0,8,139,Vila Velha,ES,34400.0,rapida
+1213,2025-04-29 18:29:45,Switch 8 Portas,Redes,260.0,8,138,Rio de Janeiro,RJ,2080.0,rapida
+1214,2025-05-29 22:11:53,Gaveteiro,Móveis,420.0,1,117,Jaboatão dos Guararapes,PE,420.0,normal
+1215,2025-05-04 01:56:36,Suporte para Notebook,Acessórios,180.0,5,139,Londrina,PR,900.0,normal
+1216,2025-11-22 11:17:24,Smart TV 55 Polegadas,Eletrônicos,3200.0,7,100,Salvador,BA,22400.0,normal
+1217,2026-01-27 05:59:16,Apoio para Pés,Móveis,110.0,4,110,Juiz de Fora,MG,440.0,rapida
+1218,2025-07-25 11:31:55,Suporte para Monitor,Móveis,240.0,8,127,São Luís,MA,1920.0,normal
+1219,2025-07-28 14:21:00,Câmera de Segurança 360,Casa Inteligente,340.0,7,124,Santo André,SP,2380.0,rapida
+1220,2026-01-22 05:13:30,Gaveteiro,Móveis,420.0,2,149,Jaboatão dos Guararapes,PE,840.0,normal
+1221,2025-12-13 11:38:11,Fone Bluetooth Esportivo,Acessórios,300.0,5,122,Jaboatão dos Guararapes,PE,1500.0,normal
+1222,2025-11-01 08:56:26,Headset 7.1,Acessórios,800.0,3,130,Belo Horizonte,MG,2400.0,rapida
+1223,2025-09-22 22:59:55,Cadeira Gamer,Móveis,1200.0,7,129,Belo Horizonte,MG,8400.0,rapida
+1224,2025-04-13 16:13:31,Controle Sem Fio,Periféricos,271.48,5,106,Santo André,SP,1357.4,rapida
+1225,2025-12-30 00:19:08,Capa para Tablet,Acessórios,95.0,5,115,Belém,PA,475.0,normal
+1226,2026-03-25 19:28:30,Câmera de Segurança 360,Casa Inteligente,340.0,4,125,Natal,RN,1360.0,normal
+1227,2025-09-13 02:34:56,Notebook Ultrafino,Eletrônicos,4300.0,4,147,Juiz de Fora,MG,17200.0,rapida
+1228,2026-03-19 19:00:30,SSD 1TB,Hardware,600.0,3,148,São Bernardo do Campo,SP,1800.0,rapida
+1229,2025-04-24 03:52:00,Tablet Pro,Eletrônicos,2900.0,2,101,Aparecida de Goiânia,GO,5800.0,normal
+1230,2025-09-18 13:12:24,Carregador Turbo,Acessórios,160.0,5,100,Juiz de Fora,MG,800.0,rapida
+1231,2025-12-28 17:59:26,SSD 1TB,Hardware,600.0,5,147,Natal,RN,3000.0,normal
+1232,2025-09-18 00:12:30,Placa-Mãe ATX,Hardware,900.0,8,111,Vila Velha,ES,7200.0,rapida
+1233,2026-01-11 06:21:08,Headset 7.1,Acessórios,800.0,7,104,Osasco,SP,5600.0,rapida
+1234,2025-05-06 11:13:41,Webcam 4K,Eletrônicos,650.0,1,136,Osasco,SP,650.0,rapida
+1235,2026-01-23 00:05:00,Capa para Tablet,Acessórios,95.0,1,131,Mauá,SP,95.0,rapida
+1236,2026-01-22 08:41:29,Mesa Digitalizadora,Periféricos,539.45,1,108,Aparecida de Goiânia,GO,539.45,normal
+1237,2026-03-22 18:25:02,Caixa de Som USB,Periféricos,129.9,8,118,Belo Horizonte,MG,1039.2,rapida
+1238,2025-12-03 12:37:20,Tablet Pro,Eletrônicos,2900.0,7,147,Manaus,AM,20300.0,normal
+1239,2025-09-30 12:48:51,Switch 8 Portas,Redes,260.0,2,115,Teresina,PI,520.0,normal
+1240,2025-12-17 06:05:49,Console de Games,Eletrônicos,4200.0,6,102,São Gonçalo,RJ,25200.0,rapida
+1241,2025-09-07 20:48:37,Placa de Vídeo,Hardware,4500.0,6,119,Ananindeua,PA,27000.0,normal
+1242,2026-02-10 22:59:06,Controle Sem Fio,Periféricos,276.84,7,132,Campo Grande,MS,1937.8799999999999,normal
+1243,2025-05-05 04:46:36,Caixa de Som USB,Periféricos,134.99,8,110,São Bernardo do Campo,SP,1079.92,rapida
+1244,2026-01-26 00:40:06,Webcam 4K,Eletrônicos,650.0,2,148,Goiânia,GO,1300.0,normal
+1245,2025-12-12 09:50:20,Placa-Mãe ATX,Hardware,900.0,1,107,Ananindeua,PA,900.0,normal
+1246,2025-04-22 01:13:07,Câmera de Segurança 360,Casa Inteligente,340.0,7,135,São Bernardo do Campo,SP,2380.0,rapida
+1247,2025-11-29 21:13:55,Base Cooler Notebook,Acessórios,207.87,8,119,Nova Iguaçu,RJ,1662.96,rapida
+1248,2025-07-13 17:08:40,Water Cooler 360mm,Hardware,750.0,4,134,Cuiabá,MT,3000.0,normal
+1249,2025-09-18 03:32:16,Poltrona Ergonômica,Móveis,1800.0,5,147,Fortaleza,CE,9000.0,normal
+1250,2025-04-12 05:04:57,Fechadura Digital,Casa Inteligente,680.0,2,124,Sorocaba,SP,1360.0,rapida
+1251,2026-01-01 15:39:19,Impressora Multifuncional,Periféricos,850.0,4,134,Osasco,SP,3400.0,rapida
+1252,2025-11-01 11:21:22,Carregador Turbo,Acessórios,160.0,1,124,Porto Alegre,RS,160.0,normal
+1253,2025-09-27 05:00:21,Fonte 750W,Hardware,520.0,2,128,Brasília,DF,1040.0,normal
+1254,2025-10-11 13:11:46,SSD 1TB,Hardware,600.0,3,117,Ribeirão Preto,SP,1800.0,rapida
+1255,2025-09-09 08:39:02,Tomada Inteligente,Casa Inteligente,95.0,5,145,Aracaju,SE,475.0,normal
+1256,2025-07-04 15:44:12,Access Point Dual Band,Redes,530.0,8,117,Teresina,PI,4240.0,normal
+1257,2025-06-14 00:37:02,SSD NVMe 2TB,Hardware,950.0,7,101,São Bernardo do Campo,SP,6650.0,rapida
+1258,2026-03-02 13:18:53,Lâmpada Smart,Casa Inteligente,80.0,3,134,Osasco,SP,240.0,rapida
+1259,2025-08-10 23:52:00,Cadeira Gamer,Móveis,1200.0,7,115,Belém,PA,8400.0,normal
+1260,2026-02-13 16:04:31,Tomada Inteligente,Casa Inteligente,95.0,5,140,Juiz de Fora,MG,475.0,rapida
+1261,2026-02-20 05:50:28,Laptop Gamer,Eletrônicos,7500.0,5,135,Belém,PA,37500.0,normal
+1262,2026-03-03 00:48:47,Mesa Gamer em L,Móveis,1600.0,8,132,Santo André,SP,12800.0,rapida
+1263,2025-08-13 00:47:17,Suporte para Notebook,Acessórios,180.0,8,103,Duque de Caxias,RJ,1440.0,rapida
+1264,2025-09-24 20:07:09,Soundbar Bluetooth,Eletrônicos,950.0,7,132,São Bernardo do Campo,SP,6650.0,rapida
+1265,2025-12-27 21:09:23,Tomada Inteligente,Casa Inteligente,95.0,4,113,Porto Alegre,RS,380.0,normal
+1266,2026-02-27 10:37:09,Smart TV 55 Polegadas,Eletrônicos,3200.0,4,120,João Pessoa,PB,12800.0,normal
+1267,2026-01-15 05:09:18,Adaptador Bluetooth,Periféricos,85.0,6,147,São Gonçalo,RJ,510.0,rapida
+1268,2025-08-28 22:30:53,Cooler RGB,Hardware,150.0,7,119,Contagem,MG,1050.0,rapida
+1269,2025-10-10 08:47:51,Microfone Condensador,Periféricos,449.59,3,107,Juiz de Fora,MG,1348.77,rapida
+1270,2026-03-04 18:11:40,Teclado Mecânico,Acessórios,541.71,6,116,Fortaleza,CE,3250.26,normal
+1271,2025-05-09 17:22:49,Placa de Vídeo,Hardware,4500.0,8,132,Porto Velho,RO,36000.0,normal
+1272,2026-01-06 13:39:52,Suporte para Monitor,Móveis,240.0,1,147,Caxias do Sul,RS,240.0,normal
+1273,2025-04-30 01:26:59,Suporte para Notebook,Acessórios,180.0,3,111,São Gonçalo,RJ,540.0,rapida
+1274,2025-08-10 11:37:09,Cooler RGB,Hardware,150.0,5,121,Joinville,SC,750.0,normal
+1275,2026-02-25 19:01:40,Escrivaninha Compacta,Móveis,780.0,2,121,Sorocaba,SP,1560.0,rapida
+1276,2025-08-01 23:29:45,Soundbar Bluetooth,Eletrônicos,950.0,7,145,Niterói,RJ,6650.0,rapida
+1277,2026-03-05 19:11:56,Impressora Multifuncional,Periféricos,850.0,8,129,Aracaju,SE,6800.0,normal
+1278,2025-07-01 04:13:02,Luminária de Mesa,Móveis,130.0,2,137,Rio de Janeiro,RJ,260.0,rapida
+1279,2025-06-28 08:19:32,Impressora Multifuncional,Periféricos,850.0,5,137,Sorocaba,SP,4250.0,rapida
+1280,2026-01-21 07:09:33,Dock Station,Periféricos,740.0,2,144,Brasília,DF,1480.0,normal
+1281,2025-09-20 07:23:01,Impressora Multifuncional,Periféricos,850.0,2,107,Contagem,MG,1700.0,rapida
+1282,2025-04-18 20:40:00,Carregador Turbo,Acessórios,160.0,1,126,Sorocaba,SP,160.0,rapida
+1283,2025-08-18 05:07:13,Webcam 4K,Eletrônicos,650.0,5,126,Juiz de Fora,MG,3250.0,rapida
+1284,2025-10-24 06:49:44,Processador Octa-Core,Hardware,1800.0,4,133,Maceió,AL,7200.0,normal
+1285,2025-06-06 00:21:44,Fonte 750W,Hardware,520.0,3,120,João Pessoa,PB,1560.0,normal
+1286,2025-11-27 16:07:09,Cabo HDMI 2.1,Acessórios,90.0,7,129,Brasília,DF,630.0,normal
+1287,2025-06-30 04:09:11,Mesa Digitalizadora,Periféricos,540.13,3,146,Recife,PE,1620.3899999999999,normal
+1288,2025-07-09 03:49:02,SSD NVMe 2TB,Hardware,950.0,8,132,São José dos Campos,SP,7600.0,rapida
+1289,2026-03-16 23:52:50,Microfone Condensador,Periféricos,441.37,8,147,São Paulo,SP,3530.96,rapida
+1290,2025-04-29 16:26:34,Smartphone 5G,Eletrônicos,2400.0,3,118,Uberlândia,MG,7200.0,rapida
+1291,2025-12-05 03:20:25,Water Cooler 360mm,Hardware,750.0,5,103,Macapá,AP,3750.0,normal
+1292,2026-02-23 06:48:13,Gabinete Mid Tower,Hardware,430.0,8,134,Sorocaba,SP,3440.0,rapida
+1293,2026-02-26 09:39:46,Projetor Full HD,Eletrônicos,2100.0,7,148,Manaus,AM,14700.0,normal
+1294,2025-11-09 02:42:21,Cooler RGB,Hardware,150.0,7,116,Salvador,BA,1050.0,normal
+1295,2025-04-09 12:29:30,Console de Games,Eletrônicos,4200.0,5,143,João Pessoa,PB,21000.0,normal
+1296,2025-04-04 03:28:42,Access Point Dual Band,Redes,530.0,5,127,Ribeirão Preto,SP,2650.0,rapida
+1297,2026-03-20 15:33:54,Gaveteiro,Móveis,420.0,1,129,Ananindeua,PA,420.0,normal
+1298,2026-01-27 06:25:47,Apoio para Pés,Móveis,110.0,5,128,Feira de Santana,BA,550.0,normal
+1299,2025-06-25 01:16:12,Repetidor de Sinal,Redes,190.0,6,145,Recife,PE,1140.0,normal
+1300,2025-12-20 05:13:21,Impressora Multifuncional,Periféricos,850.0,5,105,Manaus,AM,4250.0,normal
+1301,2025-11-30 23:41:48,Caixa de Som USB,Periféricos,131.18,3,140,Aracaju,SE,393.54,normal
+1302,2025-07-29 23:27:47,Placa de Vídeo,Hardware,4500.0,1,136,Caxias do Sul,RS,4500.0,normal
+1303,2026-01-10 10:05:16,Roteador Wi-Fi 6,Redes,480.0,6,123,Duque de Caxias,RJ,2880.0,rapida
+1304,2025-08-05 21:14:34,Hub USB-C,Acessórios,205.28,5,145,Brasília,DF,1026.4,normal
+1305,2025-05-22 07:49:06,Dock Station,Periféricos,740.0,4,130,Maceió,AL,2960.0,normal
+1306,2025-10-24 03:54:09,Roteador Wi-Fi 6,Redes,480.0,6,134,São Bernardo do Campo,SP,2880.0,rapida
+1307,2025-07-09 19:08:05,Estante Modular,Móveis,700.0,3,132,Caxias do Sul,RS,2100.0,normal
+1308,2026-02-08 05:01:03,Lâmpada Smart,Casa Inteligente,80.0,8,120,Aparecida de Goiânia,GO,640.0,normal
+1309,2026-02-07 07:59:26,Smartphone 5G,Eletrônicos,2400.0,6,131,Feira de Santana,BA,14400.0,normal
+1310,2025-05-25 15:57:01,SSD 1TB,Hardware,600.0,2,122,Natal,RN,1200.0,normal
+1311,2026-02-23 10:54:35,Caixa de Som USB,Periféricos,129.76,7,102,Mauá,SP,908.3199999999999,rapida
+1312,2026-02-02 01:41:24,Repetidor de Sinal,Redes,190.0,2,117,João Pessoa,PB,380.0,normal
+1313,2025-09-24 14:54:46,Placa-Mãe ATX,Hardware,900.0,2,124,São Paulo,SP,1800.0,rapida
+1314,2025-11-14 00:29:41,Processador Octa-Core,Hardware,1800.0,5,141,Uberlândia,MG,9000.0,rapida
+1315,2025-05-13 01:51:31,Memória RAM 16GB,Hardware,350.0,6,130,Aparecida de Goiânia,GO,2100.0,normal
+1316,2025-11-27 14:35:43,Mesa Digitalizadora,Periféricos,551.28,1,102,Recife,PE,551.28,normal
+1317,2026-03-22 10:48:12,Fechadura Digital,Casa Inteligente,680.0,6,139,Vila Velha,ES,4080.0,rapida
+1318,2025-12-03 18:23:37,Escrivaninha Compacta,Móveis,780.0,2,145,Curitiba,PR,1560.0,normal
+1319,2025-12-09 03:21:00,Switch 8 Portas,Redes,260.0,5,123,Natal,RN,1300.0,normal
+1320,2025-04-15 10:50:31,Fonte 750W,Hardware,520.0,1,149,Salvador,BA,520.0,normal
+1321,2025-05-08 17:53:42,Projetor Full HD,Eletrônicos,2100.0,2,131,Santos,SP,4200.0,rapida
+1322,2025-08-29 22:26:30,Smart TV 55 Polegadas,Eletrônicos,3200.0,3,146,Porto Velho,RO,9600.0,normal
+1323,2025-11-15 02:24:31,SSD NVMe 2TB,Hardware,950.0,7,121,São Luís,MA,6650.0,normal
+1324,2025-12-11 08:18:52,Dock Station,Periféricos,740.0,7,122,Aracaju,SE,5180.0,normal
+1325,2026-03-31 16:36:32,Placa de Vídeo,Hardware,4500.0,7,101,Aparecida de Goiânia,GO,31500.0,normal
+1326,2025-06-24 09:06:00,Tablet Pro,Eletrônicos,2900.0,6,126,São Paulo,SP,17400.0,rapida
+1327,2026-02-27 05:22:25,Water Cooler 360mm,Hardware,750.0,4,141,Duque de Caxias,RJ,3000.0,rapida
+1328,2025-10-29 10:47:22,Processador Octa-Core,Hardware,1800.0,6,101,Salvador,BA,10800.0,normal
+1329,2025-04-24 12:22:03,Assistente Virtual,Casa Inteligente,350.0,6,125,São José do Rio Preto,SP,2100.0,rapida
+1330,2026-02-24 08:14:31,Placa-Mãe ATX,Hardware,900.0,2,116,Belém,PA,1800.0,normal
+1331,2025-12-06 05:07:08,Switch 8 Portas,Redes,260.0,4,139,Natal,RN,1040.0,normal
+1332,2025-04-20 15:25:33,Impressora Multifuncional,Periféricos,850.0,1,132,Osasco,SP,850.0,rapida
+1333,2026-01-31 15:10:03,Roteador Wi-Fi 6,Redes,480.0,3,108,Guarulhos,SP,1440.0,rapida
+1334,2025-11-14 17:29:11,Gaveteiro,Móveis,420.0,4,142,Curitiba,PR,1680.0,normal
+1335,2025-08-06 14:23:49,Fone Bluetooth Esportivo,Acessórios,300.0,4,147,Londrina,PR,1200.0,normal
+1336,2025-07-17 16:23:19,Adaptador Bluetooth,Periféricos,85.0,1,138,Fortaleza,CE,85.0,normal
+1337,2025-10-27 19:10:22,Cabo de Rede Cat6,Redes,45.0,3,128,São José do Rio Preto,SP,135.0,rapida
+1338,2025-12-13 17:30:13,Notebook Ultrafino,Eletrônicos,4300.0,2,141,Juiz de Fora,MG,8600.0,rapida
+1339,2025-08-18 03:03:36,Câmera de Segurança 360,Casa Inteligente,340.0,1,125,São Paulo,SP,340.0,rapida
+1340,2025-04-07 03:05:25,Roteador Wi-Fi 6,Redes,480.0,6,134,Juiz de Fora,MG,2880.0,rapida
+1341,2026-01-14 01:18:48,Cabo HDMI 2.1,Acessórios,90.0,3,149,Goiânia,GO,270.0,normal
+1342,2025-10-02 22:56:02,Fonte 750W,Hardware,520.0,2,124,Nova Iguaçu,RJ,1040.0,rapida
+1343,2025-09-23 12:59:45,Water Cooler 360mm,Hardware,750.0,2,123,Joinville,SC,1500.0,normal
+1344,2026-01-08 10:23:45,Estante Modular,Móveis,700.0,1,112,Curitiba,PR,700.0,normal
+1345,2025-09-25 21:15:56,Roteador Wi-Fi 6,Redes,480.0,5,106,Caxias do Sul,RS,2400.0,normal
+1346,2025-10-04 00:26:05,Scanner Portátil,Periféricos,620.0,1,135,Mauá,SP,620.0,rapida
+1347,2025-10-08 09:38:12,Cabo de Rede Cat6,Redes,45.0,2,144,São Gonçalo,RJ,90.0,rapida
+1348,2026-03-16 05:46:25,Stream Deck Mini,Periféricos,650.0,2,119,Caxias do Sul,RS,1300.0,normal
+1349,2025-04-26 12:12:10,Headset 7.1,Acessórios,800.0,3,100,Guarulhos,SP,2400.0,rapida
+1350,2025-08-26 22:17:10,Hub USB-C,Acessórios,199.56,6,145,Belém,PA,1197.3600000000001,normal
+1351,2025-10-14 08:04:39,Apoio para Pés,Móveis,110.0,8,115,Nova Iguaçu,RJ,880.0,rapida
+1352,2026-02-26 04:36:15,Apoio para Pés,Móveis,110.0,2,113,Maceió,AL,220.0,normal
+1353,2025-09-15 00:32:32,Scanner Portátil,Periféricos,620.0,4,111,Ribeirão Preto,SP,2480.0,rapida
+1354,2025-08-10 15:04:17,Water Cooler 360mm,Hardware,750.0,7,122,Porto Velho,RO,5250.0,normal
+1355,2026-01-09 08:28:53,Switch 8 Portas,Redes,260.0,7,114,Natal,RN,1820.0,normal
+1356,2025-12-15 07:15:16,Placa de Vídeo,Hardware,4500.0,6,127,Porto Alegre,RS,27000.0,normal
+1357,2025-12-23 17:38:09,Notebook Ultrafino,Eletrônicos,4300.0,3,133,São Luís,MA,12900.0,normal
+1358,2026-02-18 00:40:33,Tomada Inteligente,Casa Inteligente,95.0,2,101,Teresina,PI,190.0,normal
+1359,2026-01-15 04:04:19,Headset 7.1,Acessórios,800.0,2,131,Brasília,DF,1600.0,normal
+1360,2025-11-03 01:45:04,Dock Station,Periféricos,740.0,3,122,São Luís,MA,2220.0,normal
+1361,2025-12-17 04:58:34,Monitor Ultrawide,Eletrônicos,2800.0,6,121,Santo André,SP,16800.0,rapida
+1362,2026-03-04 03:12:18,SSD 1TB,Hardware,600.0,7,124,São Gonçalo,RJ,4200.0,rapida
+1363,2025-11-20 04:13:39,Lâmpada Smart,Casa Inteligente,80.0,5,121,Aracaju,SE,400.0,normal
+1364,2025-05-31 02:11:23,Projetor Full HD,Eletrônicos,2100.0,4,121,Campinas,SP,8400.0,rapida
+1365,2025-08-14 23:17:56,Microfone Condensador,Periféricos,444.01,2,141,Teresina,PI,888.02,normal
+1366,2026-01-22 03:59:58,Cabo de Rede Cat6,Redes,45.0,2,105,São Bernardo do Campo,SP,90.0,rapida
+1367,2026-02-23 05:25:01,Tablet Pro,Eletrônicos,2900.0,7,114,João Pessoa,PB,20300.0,normal
+1368,2025-11-23 12:14:38,Poltrona Ergonômica,Móveis,1800.0,1,142,São José do Rio Preto,SP,1800.0,rapida
+1369,2025-04-12 05:51:47,Tomada Inteligente,Casa Inteligente,95.0,5,136,Ribeirão Preto,SP,475.0,rapida
+1370,2026-03-24 21:21:08,Cabo HDMI 2.1,Acessórios,90.0,5,132,Goiânia,GO,450.0,normal
+1371,2026-03-04 19:42:29,Soundbar Bluetooth,Eletrônicos,950.0,3,107,Campinas,SP,2850.0,rapida
+1372,2025-04-28 00:34:59,Suporte para Notebook,Acessórios,180.0,7,143,João Pessoa,PB,1260.0,normal
+1373,2025-05-06 15:14:36,Suporte para Notebook,Acessórios,180.0,1,143,Feira de Santana,BA,180.0,normal
+1374,2025-09-11 01:07:20,Dock Station,Periféricos,740.0,7,104,Nova Iguaçu,RJ,5180.0,rapida
+1375,2025-07-31 00:40:14,SSD NVMe 2TB,Hardware,950.0,6,138,Guarulhos,SP,5700.0,rapida
+1376,2026-03-10 01:20:45,Leitor Digital,Periféricos,550.0,2,103,Guarulhos,SP,1100.0,rapida
+1377,2025-12-18 17:50:37,Monitor Ultrawide,Eletrônicos,2800.0,1,105,Belo Horizonte,MG,2800.0,rapida
+1378,2025-10-06 14:41:42,Headset 7.1,Acessórios,800.0,7,144,Goiânia,GO,5600.0,normal
+1379,2025-06-23 17:14:54,Apoio para Pés,Móveis,110.0,5,131,Duque de Caxias,RJ,550.0,rapida
+1380,2025-09-14 23:05:07,Caixa de Som USB,Periféricos,133.44,6,146,Campo Grande,MS,800.64,normal
+1381,2025-10-22 15:22:54,SSD 1TB,Hardware,600.0,8,134,Belém,PA,4800.0,normal
+1382,2025-09-01 12:07:18,Microfone Condensador,Periféricos,462.6,4,115,Porto Alegre,RS,1850.4,normal
+1383,2025-07-27 01:25:55,Apoio para Pés,Móveis,110.0,4,112,Rio de Janeiro,RJ,440.0,rapida
+1384,2025-07-22 09:50:34,Fone Bluetooth Esportivo,Acessórios,300.0,5,149,Cuiabá,MT,1500.0,normal
+1385,2026-01-16 02:40:34,Webcam 4K,Eletrônicos,650.0,8,141,Salvador,BA,5200.0,normal
+1386,2025-10-24 20:01:38,Gabinete Mid Tower,Hardware,430.0,7,129,Belo Horizonte,MG,3010.0,rapida
+1387,2025-04-28 23:47:32,Stream Deck Mini,Periféricos,650.0,6,118,Recife,PE,3900.0,normal
+1388,2025-09-17 09:51:40,Placa-Mãe ATX,Hardware,900.0,1,116,Ananindeua,PA,900.0,normal
+1389,2026-03-01 19:26:51,Mouse Vertical,Acessórios,234.97,2,118,Natal,RN,469.94,normal
+1390,2026-01-01 13:00:34,Webcam 4K,Eletrônicos,650.0,7,127,João Pessoa,PB,4550.0,normal
+1391,2025-09-05 07:10:29,Impressora Multifuncional,Periféricos,850.0,2,125,Maceió,AL,1700.0,normal
+1392,2026-02-06 04:51:49,Mouse Vertical,Acessórios,225.63,3,122,Mauá,SP,676.89,rapida
+1393,2025-05-05 05:25:48,Escrivaninha Compacta,Móveis,780.0,6,108,Natal,RN,4680.0,normal
+1394,2025-09-17 04:47:58,Gabinete Mid Tower,Hardware,430.0,4,111,Niterói,RJ,1720.0,rapida
+1395,2025-09-01 16:48:46,Mesa Gamer em L,Móveis,1600.0,2,100,São Gonçalo,RJ,3200.0,rapida
+1396,2025-06-26 01:12:04,Câmera de Segurança 360,Casa Inteligente,340.0,6,100,Porto Alegre,RS,2040.0,normal
+1397,2025-10-16 06:02:56,Soundbar Bluetooth,Eletrônicos,950.0,2,146,Joinville,SC,1900.0,normal
+1398,2026-03-18 19:48:42,Impressora Multifuncional,Periféricos,850.0,4,133,Salvador,BA,3400.0,normal
+1399,2025-07-01 18:11:07,Adaptador Bluetooth,Periféricos,85.0,3,131,Campinas,SP,255.0,rapida
+1400,2025-06-07 09:07:41,Placa de Vídeo,Hardware,4500.0,4,147,Fortaleza,CE,18000.0,normal
+1401,2025-06-08 19:07:17,Apoio para Pés,Móveis,110.0,2,124,Belo Horizonte,MG,220.0,rapida
+1402,2026-01-18 23:56:41,Adaptador Bluetooth,Periféricos,85.0,8,139,Jaboatão dos Guararapes,PE,680.0,normal
+1403,2025-12-21 12:37:26,Gaveteiro,Móveis,420.0,8,144,Cuiabá,MT,3360.0,normal
+1404,2026-03-02 15:21:52,Tomada Inteligente,Casa Inteligente,95.0,6,100,Porto Velho,RO,570.0,normal
+1405,2025-04-27 12:28:26,Impressora Multifuncional,Periféricos,850.0,8,115,Porto Alegre,RS,6800.0,normal
+1406,2026-02-04 06:19:50,Cooler RGB,Hardware,150.0,5,138,Duque de Caxias,RJ,750.0,rapida
+1407,2025-10-15 00:43:21,Tablet Pro,Eletrônicos,2900.0,6,104,Santo André,SP,17400.0,rapida
+1408,2025-04-15 14:31:29,Cadeira Gamer,Móveis,1200.0,8,121,Porto Alegre,RS,9600.0,normal
+1409,2025-04-30 19:11:05,Monitor Ultrawide,Eletrônicos,2800.0,5,128,Campinas,SP,14000.0,rapida
+1410,2025-11-25 20:17:37,Scanner Portátil,Periféricos,620.0,2,102,Ananindeua,PA,1240.0,normal
+1411,2025-11-12 09:03:43,Apoio para Pés,Móveis,110.0,8,111,Campo Grande,MS,880.0,normal
+1412,2025-09-22 15:49:18,Poltrona Ergonômica,Móveis,1800.0,1,125,Macapá,AP,1800.0,normal
+1413,2025-08-03 20:50:47,Lâmpada Smart,Casa Inteligente,80.0,4,115,Londrina,PR,320.0,normal
+1414,2025-04-25 00:42:16,Apoio para Pés,Móveis,110.0,3,136,Teresina,PI,330.0,normal
+1415,2026-01-03 09:54:12,Water Cooler 360mm,Hardware,750.0,6,121,Salvador,BA,4500.0,normal
+1416,2025-04-16 04:49:51,Headset 7.1,Acessórios,800.0,3,128,Campo Grande,MS,2400.0,normal
+1417,2025-10-21 12:40:22,Smart TV 55 Polegadas,Eletrônicos,3200.0,8,113,Contagem,MG,25600.0,rapida
+1418,2025-08-23 19:13:56,Suporte para Monitor,Móveis,240.0,6,127,Osasco,SP,1440.0,rapida
+1419,2026-01-26 18:32:06,Lâmpada Smart,Casa Inteligente,80.0,7,104,Belém,PA,560.0,normal
+1420,2026-02-01 12:07:41,Soundbar Bluetooth,Eletrônicos,950.0,1,146,Uberlândia,MG,950.0,rapida
+1421,2025-08-07 00:56:26,Impressora Multifuncional,Periféricos,850.0,2,148,Ribeirão Preto,SP,1700.0,rapida
+1422,2025-07-20 08:26:30,Placa de Vídeo,Hardware,4500.0,7,129,João Pessoa,PB,31500.0,normal
+1423,2025-08-08 11:09:33,Notebook Ultrafino,Eletrônicos,4300.0,3,145,Aracaju,SE,12900.0,normal
+1424,2026-03-23 00:41:46,Headset 7.1,Acessórios,800.0,3,104,Santo André,SP,2400.0,rapida
+1425,2025-05-21 01:54:59,Console de Games,Eletrônicos,4200.0,7,111,Porto Alegre,RS,29400.0,normal
+1426,2025-07-30 05:30:44,Apoio para Pés,Móveis,110.0,2,115,Contagem,MG,220.0,rapida
+1427,2026-02-10 19:25:53,Poltrona Ergonômica,Móveis,1800.0,6,125,São Luís,MA,10800.0,normal
+1428,2025-12-07 21:23:15,Hub USB-C,Acessórios,214.79,2,120,Uberlândia,MG,429.58,rapida
+1429,2025-04-08 01:55:15,Microfone Condensador,Periféricos,454.73,6,132,Maceió,AL,2728.38,normal
+1430,2025-08-11 17:10:34,Processador Octa-Core,Hardware,1800.0,4,129,Porto Alegre,RS,7200.0,normal
+1431,2025-05-24 10:12:07,Adaptador Bluetooth,Periféricos,85.0,4,136,Teresina,PI,340.0,normal
+1432,2025-10-15 04:00:39,Suporte para Notebook,Acessórios,180.0,2,122,Brasília,DF,360.0,normal
+1433,2025-12-14 01:37:39,Adaptador Bluetooth,Periféricos,85.0,1,109,São Bernardo do Campo,SP,85.0,rapida
+1434,2025-11-18 22:44:25,Soundbar Bluetooth,Eletrônicos,950.0,3,104,Porto Velho,RO,2850.0,normal
+1435,2026-02-17 20:41:51,Memória RAM 16GB,Hardware,350.0,3,135,Belo Horizonte,MG,1050.0,rapida
+1436,2026-01-06 01:54:45,Controle Sem Fio,Periféricos,253.27,3,130,Joinville,SC,759.8100000000001,normal
+1437,2025-12-19 16:09:33,Water Cooler 360mm,Hardware,750.0,6,109,Rio de Janeiro,RJ,4500.0,rapida
+1438,2025-11-24 03:09:42,Leitor Digital,Periféricos,550.0,8,118,Recife,PE,4400.0,normal
+1439,2025-06-30 21:03:55,Smartphone 5G,Eletrônicos,2400.0,8,131,Cuiabá,MT,19200.0,normal
+1440,2026-03-18 01:39:05,Luminária de Mesa,Móveis,130.0,8,100,Recife,PE,1040.0,normal
+1441,2025-09-27 07:10:09,Access Point Dual Band,Redes,530.0,8,104,Manaus,AM,4240.0,normal
+1442,2025-10-13 07:25:48,Adaptador Bluetooth,Periféricos,85.0,7,144,Belém,PA,595.0,normal
+1443,2026-02-12 05:58:41,Suporte para Monitor,Móveis,240.0,3,103,Maceió,AL,720.0,normal
+1444,2026-03-06 00:58:03,Base Cooler Notebook,Acessórios,201.93,3,115,Juiz de Fora,MG,605.79,rapida
+1445,2026-03-06 11:21:37,Notebook Ultrafino,Eletrônicos,4300.0,8,101,Rio de Janeiro,RJ,34400.0,rapida
+1446,2026-01-02 06:44:15,Processador Octa-Core,Hardware,1800.0,2,148,São Bernardo do Campo,SP,3600.0,rapida
+1447,2025-07-20 16:58:47,Cabo de Rede Cat6,Redes,45.0,2,127,Nova Iguaçu,RJ,90.0,rapida
+1448,2025-09-22 11:57:31,Headset 7.1,Acessórios,800.0,5,131,Cuiabá,MT,4000.0,normal
+1449,2025-05-06 14:49:56,Assistente Virtual,Casa Inteligente,350.0,7,126,Campo Grande,MS,2450.0,normal
+1450,2026-03-10 13:20:49,Lâmpada Smart,Casa Inteligente,80.0,8,119,Curitiba,PR,640.0,normal
+1451,2025-04-21 16:23:24,Console de Games,Eletrônicos,4200.0,7,123,Florianópolis,SC,29400.0,normal
+1452,2025-08-28 23:19:44,Placa-Mãe ATX,Hardware,900.0,4,111,Campo Grande,MS,3600.0,normal
+1453,2025-08-02 18:21:29,Headset 7.1,Acessórios,800.0,1,149,São Luís,MA,800.0,normal
+1454,2026-02-02 08:12:07,Tomada Inteligente,Casa Inteligente,95.0,6,134,Salvador,BA,570.0,normal
+1455,2026-03-23 06:45:07,Suporte para Notebook,Acessórios,180.0,5,132,Fortaleza,CE,900.0,normal
+1456,2026-01-20 16:54:43,Access Point Dual Band,Redes,530.0,3,132,Natal,RN,1590.0,normal
+1457,2026-03-18 19:12:13,Stream Deck Mini,Periféricos,650.0,1,142,Natal,RN,650.0,normal
+1458,2026-02-19 06:25:12,Headset 7.1,Acessórios,800.0,4,136,São Paulo,SP,3200.0,rapida
+1459,2025-05-14 04:20:11,Suporte para Notebook,Acessórios,180.0,7,111,São Bernardo do Campo,SP,1260.0,rapida
+1460,2025-05-18 07:42:32,Adaptador Bluetooth,Periféricos,85.0,5,102,Belém,PA,425.0,normal
+1461,2025-04-25 09:24:18,Monitor Ultrawide,Eletrônicos,2800.0,8,100,Recife,PE,22400.0,normal
+1462,2025-11-18 18:00:39,SSD 1TB,Hardware,600.0,8,132,Aparecida de Goiânia,GO,4800.0,normal
+1463,2026-01-05 01:19:06,Luminária de Mesa,Móveis,130.0,4,139,São Paulo,SP,520.0,rapida
+1464,2025-11-25 18:26:26,Suporte para Notebook,Acessórios,180.0,1,109,Belém,PA,180.0,normal
+1465,2025-06-12 17:53:31,Console de Games,Eletrônicos,4200.0,7,142,Recife,PE,29400.0,normal
+1466,2025-04-27 06:49:01,Microfone Condensador,Periféricos,441.4,6,112,Uberlândia,MG,2648.3999999999996,rapida
+1467,2025-08-30 15:17:33,Suporte para Monitor,Móveis,240.0,1,111,São Bernardo do Campo,SP,240.0,rapida
+1468,2025-08-23 23:25:49,Câmera de Segurança 360,Casa Inteligente,340.0,7,130,Natal,RN,2380.0,normal
+1469,2026-02-01 05:32:21,Notebook Ultrafino,Eletrônicos,4300.0,6,145,Feira de Santana,BA,25800.0,normal
+1470,2026-01-25 14:54:50,Cadeira Gamer,Móveis,1200.0,2,101,Guarulhos,SP,2400.0,rapida
+1471,2025-05-22 19:28:03,Mesa Gamer em L,Móveis,1600.0,6,149,Feira de Santana,BA,9600.0,normal
+1472,2026-02-10 22:27:07,Teclado Mecânico,Acessórios,532.57,6,116,Campinas,SP,3195.42,rapida
+1473,2025-12-27 01:29:51,Scanner Portátil,Periféricos,620.0,8,125,Belo Horizonte,MG,4960.0,rapida
+1474,2025-04-25 12:08:22,Cooler RGB,Hardware,150.0,3,107,São José dos Campos,SP,450.0,rapida
+1475,2025-04-15 08:42:50,Stream Deck Mini,Periféricos,650.0,8,128,Joinville,SC,5200.0,normal
+1476,2026-03-11 00:09:53,Smartphone 5G,Eletrônicos,2400.0,4,125,Curitiba,PR,9600.0,normal
+1477,2025-10-18 03:43:23,Teclado Mecânico,Acessórios,532.49,5,133,Porto Alegre,RS,2662.45,normal
+1478,2025-07-08 09:03:19,Placa-Mãe ATX,Hardware,900.0,8,140,Santos,SP,7200.0,rapida
+1479,2025-07-21 02:44:48,Teclado Mecânico,Acessórios,522.28,4,149,Cuiabá,MT,2089.12,normal
+1480,2026-03-03 05:49:29,Console de Games,Eletrônicos,4200.0,1,144,Ananindeua,PA,4200.0,normal
+1481,2026-02-05 10:24:40,Scanner Portátil,Periféricos,620.0,2,110,Guarulhos,SP,1240.0,rapida
+1482,2026-01-14 16:07:47,Processador Octa-Core,Hardware,1800.0,7,128,Duque de Caxias,RJ,12600.0,rapida
+1483,2025-08-10 16:03:01,Water Cooler 360mm,Hardware,750.0,7,135,Serra,ES,5250.0,rapida
+1484,2025-08-21 15:55:17,Cabo HDMI 2.1,Acessórios,90.0,8,124,Campo Grande,MS,720.0,normal
+1485,2026-02-06 03:14:29,Tomada Inteligente,Casa Inteligente,95.0,5,120,Juiz de Fora,MG,475.0,rapida
+1486,2025-09-15 05:32:58,Headset 7.1,Acessórios,800.0,2,135,Aracaju,SE,1600.0,normal
+1487,2025-10-29 20:11:23,Apoio para Pés,Móveis,110.0,3,109,Santos,SP,330.0,rapida
+1488,2025-08-06 08:26:06,Smartphone 5G,Eletrônicos,2400.0,2,136,Porto Alegre,RS,4800.0,normal
+1489,2025-11-21 00:50:26,Microfone Condensador,Periféricos,468.03,8,134,Belém,PA,3744.24,normal
+1490,2025-08-15 12:39:19,Stream Deck Mini,Periféricos,650.0,8,148,Maceió,AL,5200.0,normal
+1491,2025-11-25 18:49:52,Water Cooler 360mm,Hardware,750.0,6,134,Rio de Janeiro,RJ,4500.0,rapida
+1492,2025-04-30 03:26:03,Gabinete Mid Tower,Hardware,430.0,1,147,Belém,PA,430.0,normal
+1493,2025-10-17 06:18:29,Microfone Condensador,Periféricos,438.13,6,148,São José dos Campos,SP,2628.7799999999997,rapida
+1494,2025-04-13 02:15:05,Repetidor de Sinal,Redes,190.0,3,138,Feira de Santana,BA,570.0,normal
+1495,2025-04-14 12:20:59,Suporte para Notebook,Acessórios,180.0,8,131,Niterói,RJ,1440.0,rapida
+1496,2025-08-19 15:29:17,Hub USB-C,Acessórios,205.5,6,131,Brasília,DF,1233.0,normal
+1497,2025-11-21 23:53:33,Memória RAM 16GB,Hardware,350.0,1,136,Macapá,AP,350.0,normal
+1498,2025-08-23 11:24:57,Suporte para Notebook,Acessórios,180.0,6,111,Uberlândia,MG,1080.0,rapida
+1499,2025-10-23 14:55:25,Water Cooler 360mm,Hardware,750.0,3,148,Cuiabá,MT,2250.0,normal
