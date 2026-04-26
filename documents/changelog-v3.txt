@@ -1,0 +1,38 @@
+
+01 + reprodutibilidade - semente fixa garante a sequência aleatória, mas a janela temporal 
+     muda com o tempo, definir uma data final/atual "fixa"
+
+02 + colocar a semente como parametro da funcao      
+
+03 + interpretacao do grafico de produto "produto", fala em maior giro.... mas o grafico e de faturamento
+
+04 + aumentar o numero de registros de vendas para 10.000
+
+05 + melhorar a visualizacao do grafico por estado - colocar somente top 10
+
+06 + O notebook foi exportado com contadores altos de execução
+
+07 + formatacao dos valores em faturamento mensal
+
+08 + criar a secao indicadores de desempenho chave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
