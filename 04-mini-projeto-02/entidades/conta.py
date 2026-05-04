@@ -28,6 +28,10 @@ class Conta(ABC):
     @property
     def saldo(self):
         return self._saldo
+
+    @property
+    def numero(self):
+        return self._numero
     
     @classmethod
     def get_total_contas(cls):
@@ -111,7 +115,6 @@ class ContaPoupanca(Conta):
 
         self._transacoes.append((datetime.now(), f"Saque de R${valor:.2f}"))
         print(f"Saque de R${valor:.2f} realizado com sucesso.")
-
 
 
 

@@ -9,7 +9,7 @@ class Banco:
     Gerencia as operacoes do banco
     """
 
-    def __init(self, nome: str):
+    def __init__(self, nome: str):
 
         self.nome = nome
 
@@ -43,10 +43,11 @@ class Banco:
             nova_conta = ContaPoupanca(numero_conta, cliente)
 
         else:
-            print("Tipo de conta inválido. Escolha 'corrente' ou 'oupanca'.")
+            print("Tipo de conta inválido. Escolha 'corrente' ou 'poupanca'.")
             return None
         
         self._contas[numero_conta] = nova_conta
+        cliente.adicionar_conta(nova_conta)
         print(f"Conta: {tipo} Nº {numero_conta} criada para o cliente {cliente.nome}")
 
         return nova_conta
