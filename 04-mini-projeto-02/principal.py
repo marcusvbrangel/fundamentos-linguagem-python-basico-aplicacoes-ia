@@ -49,7 +49,8 @@ def menu_conta(banco: Banco):
                 try:
 
                     # deposita valor na conta
-                    valor = Decimal(input("Digite um valor para depósito: ")).replace(",", '.')
+                    entrada = input("Digite um valor para depósito: ").replace(",", ".").strip()
+                    valor = Decimal(entrada)
                     conta.depositar(valor)
 
                 except InvalidOperation:
@@ -60,7 +61,8 @@ def menu_conta(banco: Banco):
                 # tenta realizar um saque
                 try:
 
-                    valor = Decimal(input("Digite um valor para saque: ")).replace(",", ".")
+                    entrada = input("Digite um valor para saque: ").replace(",", ".").strip()
+                    valor = Decimal(entrada)
                     conta.sacar(valor)
 
                 except InvalidOperation:
