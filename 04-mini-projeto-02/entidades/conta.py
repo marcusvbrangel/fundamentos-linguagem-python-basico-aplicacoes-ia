@@ -19,7 +19,7 @@ class Conta(ABC):
     def __init__(self, numero: int, cliente: Cliente):
 
         self._numero: int = numero
-        self._saldo: Decimal = 0.0
+        self._saldo: Decimal = Decimal("0.00")
         self._cliente: Cliente = cliente
         self._transacoes = []
         Conta._total_contas += 1
@@ -73,7 +73,7 @@ class Conta(ABC):
         print("--------------------------------------\n")
 
     def __str__(self):
-        return f"Conta Nº {self._numero} | Cliente: {self._cliente.nome} | Saldo: R${self._saldos:.2f}"
+        return f"Conta Nº {self._numero} | Cliente: {self._cliente.nome} | Saldo: R${self._saldo:.2f}"
 
 
 
@@ -82,10 +82,10 @@ class Conta(ABC):
 
 class ContaCorrente(Conta):
 
-    def __init__(self, numero: int, cliente: Cliente, limite: Decimal = 500.00):
+    def __init__(self, numero: int, cliente: Cliente, limite: Decimal | None = None):
 
         super().__init__(numero, cliente)
-        self.limite: Decimal = limite
+        self.limite = limite if limite is not None else Decimal("500.00")
 
     def sacar(self, valor: Decimal):
 

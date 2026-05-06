@@ -1,6 +1,12 @@
 
+from decimal import Decimal, InvalidOperation
 from operacoes.banco import Banco
-from utilitarios.exceptions import ContaInexistenteError, SaldoInsuficienteError
+from utilitarios.exceptions import (
+    ContaInexistenteError, 
+    SaldoInsuficienteError, 
+    ClienteInexistenteError, 
+    TipoContaInvalidaError
+)
 
 # funcao que exibe o menu principal da aplicacao
 def menu_principal():
@@ -40,18 +46,26 @@ def menu_conta(banco: Banco):
 
             if opcao == '1':
 
-                # deposita valor na conta
-                valor = float(input("Digite um valor para depósito: "))
-                conta.depositar(valor)
+                try:
+
+                    # deposita valor na conta
+                    valor = Decimal(input("Digite um valor para depósito: ".replace(",", '.')))
+                    conta.depositar(valor)
+
+                except InvalidOperation:
+                    print("Erro: valor monetário inválido.")
 
             elif opcao == '2':
 
                 # tenta realizar um saque
                 try:
 
-                    valor = float(input("Digite um valor para saque: "))
+                    valor = Decimal(input("Digite um valor para saque: ".replace(",", ".")))
                     conta.sacar(valor)
 
+                except InvalidOperation:
+                    print("Erro: valor monetário inválido.")
+                    
                 except SaldoInsuficienteError as e:
                     print(f"Erro na operação: {e}")
 
@@ -91,24 +105,29 @@ def main():
             # adiciona um novo cliente
             nome = input("Digite o nome do cliente: ").strip()
             cpf = input("Digite o CPF do cliente: ").strip()
-            banco.adicionar_cliente(nome, cpf)
-
-            if not nome or cpf:
+            
+            if not nome or not cpf:
                 print("Nome ou CPF não pode ser vazio.")
+                continue
+
+            banco.adicionar_cliente(nome, cpf)
 
         elif opcao == '2':
 
-            # cria uma nova conta vinculada a um cliente existente
-            cpf = input("Digite o CPF do cliente para vincular a conta: ")
-            cliente = banco.buscar_cliente(cpf)
+            cpf = input("Digite o CPF do cliente para vincular a conta: ").strip()
 
-            if cliente:
+            try:
+
+                cliente = banco.buscar_cliente(cpf)
 
                 tipo_conta = input("Digite o tipo da conta: (corrente/poupanca): ").strip().lower()
                 banco.criar_conta(cliente, tipo_conta)
 
-            else:
-                print("Cliente não encontrado. Cadastre o cliente primeiro")
+            except ClienteInexistenteError as e:
+                print(f"Erro: {e}")
+
+            except TipoContaInvalidaError as e:
+                print(f"Erro: {e}")
 
         elif opcao == '3':
 

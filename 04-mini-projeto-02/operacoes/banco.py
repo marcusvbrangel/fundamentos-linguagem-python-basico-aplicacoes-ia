@@ -52,8 +52,7 @@ class Banco:
             nova_conta = ContaPoupanca(numero_conta, cliente)
 
         else:
-            print("Tipo de conta inválido. Escolha 'corrente' ou 'poupanca'.")
-            raise TipoContaInvalidaError("Tipo de conta inválida.")
+            raise TipoContaInvalidaError("Tipo de conta inválida. Escolha 'corrente' ou 'poupanca'.")
         
         self._contas[numero_conta] = nova_conta
         cliente.adicionar_conta(nova_conta)
