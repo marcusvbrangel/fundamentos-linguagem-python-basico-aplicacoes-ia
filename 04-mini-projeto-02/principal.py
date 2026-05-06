@@ -29,7 +29,7 @@ def menu_conta(banco: Banco):
         while True:
 
             print(f"\n--- Operações para Conta Nº {conta.numero} ---")
-            print(f"Cliente: {conta._cliente.nome} | Saldo: R${conta._saldo:.2f}")
+            print(f"Cliente: {conta.cliente.nome} | Saldo: R${conta.saldo:.2f}")
             print("1. Depositar")
             print("2. Sacar")
             print("3. Ver Extrato")
@@ -89,19 +89,22 @@ def main():
         if opcao == '1':
 
             # adiciona um novo cliente
-            nome = input("Digite o nome do cliente: ")
-            cpf = input("Digite o CPF do cliente: ")
+            nome = input("Digite o nome do cliente: ").strip()
+            cpf = input("Digite o CPF do cliente: ").strip()
             banco.adicionar_cliente(nome, cpf)
+
+            if not nome or cpf:
+                print("Nome ou CPF não pode ser vazio.")
 
         elif opcao == '2':
 
             # cria uma nova conta vinculada a um cliente existente
             cpf = input("Digite o CPF do cliente para vincular a conta: ")
-            cliente = banco._clientes.get(cpf)
+            cliente = banco.buscar_cliente(cpf)
 
             if cliente:
 
-                tipo_conta = input("Digite o tipo da conta: (corrente/poupanca): ")
+                tipo_conta = input("Digite o tipo da conta: (corrente/poupanca): ").strip().lower()
                 banco.criar_conta(cliente, tipo_conta)
 
             else:

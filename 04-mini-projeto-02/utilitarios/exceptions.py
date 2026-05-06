@@ -22,4 +22,27 @@ class ContaInexistenteError(Exception):
         self.numero_conta = numero_conta
         self.mensagem = f"{mensagem} Número da conta: {numero_conta}"
         super().__init__(self.mensagem)
-        
+
+
+class ClienteInexistenteError(Exception):
+
+    """
+    Excecao disparada ao tentar buscar um cliente inexistente
+    """
+
+    def __init__(self, cpf: str, mensagem="O cliente especificado não foi encontrado."):
+        self.cpf = cpf
+        self.mensagem = f"{mensagem} CPF: {cpf}"
+        super().__init__(self.mensagem)
+
+
+class TipoContaInvalidaError(Exception):
+
+    """
+    Excecao disparada ao tentar informar um tipo de conta invalida
+    """
+
+    def __init__(self, mensagem="Tipo de conta inválida."):
+        self.mensagem = f"{mensagem}"
+        super().__init__(self.mensagem)
+

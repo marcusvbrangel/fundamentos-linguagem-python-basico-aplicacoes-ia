@@ -1,6 +1,7 @@
 
 from abc import ABC, abstractmethod
 from datetime import datetime
+from decimal import Decimal
 from utilitarios.exceptions import SaldoInsuficienteError
 from entidades.cliente import Cliente
 
@@ -17,34 +18,41 @@ class Conta(ABC):
 
     def __init__(self, numero: int, cliente: Cliente):
 
-        self._numero = numero
-        self._saldo = 0.0
-        self._cliente = cliente
+        self._numero: int = numero
+        self._saldo: Decimal = 0.0
+        self._cliente: Cliente = cliente
         self._transacoes = []
         Conta._total_contas += 1
 
 
     # getter para o saldo, permitindo acesso controlado
     @property
-    def saldo(self):
+    def saldo(self) -> Decimal:
         return self._saldo
 
     @property
-    def numero(self):
+    def numero(self) -> int:
         return self._numero
+    
+    @property
+    def cliente(self) -> Cliente:
+        return self._cliente
     
     @classmethod
     def get_total_contas(cls):
         return cls._total_contas
     
-    def depositar(self, valor: float):
+    def depositar(self, valor: Decimal):
 
         if valor > 0:
             self._saldo += valor
-            self._transacoes.append((datetime.now(), f"Depósito de R${valor:.2f}"))
+            self.registrar_transacao(valor, "Depósito")
             print(f"Depósito de R${valor:.2f} realizado com sucesso")
         else:
-            print("Valor de depósito inválido")            
+            print("Valor de depósito inválido") 
+
+    def registrar_transacao(self, valor: Decimal, tipo_transacao: str):
+        self._transacoes.append((datetime.now(), f"{tipo_transacao} de R${valor:.2f} | Saldo: R${self._saldo:.2f}"))
 
     @abstractmethod
     def sacar(self, valor: float):
@@ -61,7 +69,11 @@ class Conta(ABC):
         
         for data, transacao in self._transacoes:
             print(f"- {data.strftime('%d/%m/%Y %H:%M:%S')}: {transacao}")
-            print("--------------------------------------\n")
+
+        print("--------------------------------------\n")
+
+    def __str__(self):
+        return f"Conta Nº {self._numero} | Cliente: {self._cliente.nome} | Saldo: R${self._saldos:.2f}"
 
 
 
@@ -70,12 +82,12 @@ class Conta(ABC):
 
 class ContaCorrente(Conta):
 
-    def __init__(self, numero: int, cliente: Cliente, limite: float = 500.00):
+    def __init__(self, numero: int, cliente: Cliente, limite: Decimal = 500.00):
 
         super().__init__(numero, cliente)
-        self.limite = limite
+        self.limite: Decimal = limite
 
-    def sacar(self, valor: float):
+    def sacar(self, valor: Decimal):
 
         if valor <= 0:
             print("Valor de saque inválido")
@@ -88,8 +100,11 @@ class ContaCorrente(Conta):
 
         self._saldo -= valor
 
-        self._transacoes.append((datetime.now(), f"Saque de R${valor:.2f}"))
+        self.registrar_transacao(valor, "Saque")
         print(f"Saque de R${valor:.2f} realizado com sucesso.")
+
+    def __str__(self):
+        return f"Conta Corrente Nº {self._numero} | Saldo: R${self._saldo:.2f} | Limite: R${self.limite:.2f}"
 
 
 
@@ -102,7 +117,7 @@ class ContaPoupanca(Conta):
 
         super().__init__(numero, cliente)
     
-    def sacar(self, valor: float):
+    def sacar(self, valor: Decimal):
 
         if valor <= 0:
             print("Valor de saque inválido")
@@ -113,9 +128,6 @@ class ContaPoupanca(Conta):
 
         self._saldo -= valor
 
-        self._transacoes.append((datetime.now(), f"Saque de R${valor:.2f}"))
+        self.registrar_transacao(valor, "Saque")
         print(f"Saque de R${valor:.2f} realizado com sucesso.")
-
-
-
 
