@@ -49,7 +49,7 @@ def menu_conta(banco: Banco):
                 try:
 
                     # deposita valor na conta
-                    valor = Decimal(input("Digite um valor para depósito: ".replace(",", '.')))
+                    valor = Decimal(input("Digite um valor para depósito: ")).replace(",", '.')
                     conta.depositar(valor)
 
                 except InvalidOperation:
@@ -60,12 +60,12 @@ def menu_conta(banco: Banco):
                 # tenta realizar um saque
                 try:
 
-                    valor = Decimal(input("Digite um valor para saque: ".replace(",", ".")))
+                    valor = Decimal(input("Digite um valor para saque: ")).replace(",", ".")
                     conta.sacar(valor)
 
                 except InvalidOperation:
                     print("Erro: valor monetário inválido.")
-                    
+
                 except SaldoInsuficienteError as e:
                     print(f"Erro na operação: {e}")
 

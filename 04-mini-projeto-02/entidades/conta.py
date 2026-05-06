@@ -55,7 +55,7 @@ class Conta(ABC):
         self._transacoes.append((datetime.now(), f"{tipo_transacao} de R${valor:.2f} | Saldo: R${self._saldo:.2f}"))
 
     @abstractmethod
-    def sacar(self, valor: float):
+    def sacar(self, valor: Decimal):
         pass
 
     def exibir_extrato(self):
